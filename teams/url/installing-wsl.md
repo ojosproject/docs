@@ -40,3 +40,15 @@ After the reboot, you will be prompted to choose a username and password. This
 can be the same as your Windows credentials, it really doesn't matter.
 
 Congrats, we now have Linux on Windows! ✨
+
+You may want to do the following:
+
+```shell
+# installing updates
+
+sudo apt update
+sudo apt update
+
+# installing git, cannot happen without installing updates first
+sudo apt install git
+```
