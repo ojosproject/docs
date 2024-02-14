@@ -45,9 +45,8 @@ You may want to do the following:
 
 ```shell
 # installing updates
-
 sudo apt update
-sudo apt update
+sudo apt upgrade
 
 # installing git, cannot happen without installing updates first
 sudo apt install git
