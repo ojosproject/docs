@@ -1,0 +1,35 @@
+# Installing the Windows Subsystem for Linux
+
+The Ojos Project will primarily be working with Unix-based operating systems.
+That is, Linux or macOS. We build scripts and other software that will primarily
+be compatible with these two systems.
+
+This is mostly because the Raspberry Pi OS is Linux-based, but it's also because
+[I really don't like Windows](https://www.youtube.com/watch?v=moYwK0YMFjQ).
+
+If you're working on the Ojos Project and
+prefer to use Windows, though, you can still help!
+
+## Install Process
+
+First, we need to install the
+[Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/about).
+Per Microsoft's about page, the WSL is...
+
+> Windows Subsystem for Linux (WSL) is a feature of Windows that allows you to run a Linux environment on your Windows machine, without the need for a separate virtual machine or dual booting. WSL is designed to provide a seamless and productive experience for developers who want to use both Windows and Linux at the same time.
+
+The important part for us is being able to use Bash commands on the terminal.
+Anyways, enough of that. Let's actually install this thing.
+
+Please use **Powershell**.
+
+```shell
+wsl --install -d Debian
+```
+
+That simple command will go through the install process for WSL, specifically
+for the [Debian](https://debian.org/) version. It doesn't matter which one you
+choose as long as it is Debian-based. I chose Debian because it is considered
+to be the most stable Linux operating system.
+
+Please reboot your system!
