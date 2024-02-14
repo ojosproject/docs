@@ -33,3 +33,10 @@ choose as long as it is Debian-based. I chose Debian because it is considered
 to be the most stable Linux operating system.
 
 Please reboot your system!
+
+## After the Reboot
+
+After the reboot, you will be prompted to choose a username and password. This
+can be the same as your Windows credentials, it really doesn't matter.
+
+Congrats, we now have Linux on Windows! ✨
