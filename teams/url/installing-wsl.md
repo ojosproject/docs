@@ -1,6 +1,6 @@
 # Installing the Windows Subsystem for Linux
 
-The Ojos Project will primarily be working with Unix-based operating systems.
+The Ojos Project will primarily be working with Unix-like operating systems.
 That is, Linux or macOS. We build scripts and other software that will primarily
 be compatible with these two systems.
 
