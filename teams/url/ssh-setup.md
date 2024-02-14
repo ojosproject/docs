@@ -34,4 +34,35 @@ The file will do the following things:
 Once that's done, add your key to GitLab, ensure it's a key for
 `Authentication`, and you're set!
 
+## Using the SSH Agent
+
+You're probably going to need to use the SSH agent. To do this, run these
+commands in Linux (or WSL):
+
+```shell
+# starts the SSH agent
+eval $(ssh-agent -s)
+
+# adding the key to the agent, has to be done every reboot
+ssh-add ~/.ssh/GitLab
+```
+
+It will then prompt you for the passphrase you added to your SSH key.
+
+## Concluding
+
+Once you've created the key, added it to GitLab, and started the SSH agent, you
+should be able to test it using this command:
+
+```shell
+ssh git@gitlab.com
+```
+
+... and get a response similar to:
+
+```shell
+Welcome to GitLab, @username!
+Connection to gitlab.com closed.
+```
+
 Thank you for your patience. This will happen a lot.
