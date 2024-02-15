@@ -10,6 +10,17 @@ This is mostly because the Raspberry Pi OS is Linux-based, but it's also because
 If you're working on the Ojos Project and
 prefer to use Windows, though, you can still help!
 
+## Enabling the Feature
+
+If you get an error saying that the `wsl` command is not available, please try:
+
+```shell
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+```
+
+Please refer to the
+[WSL documentation](https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-1---enable-the-windows-subsystem-for-linux).
+
 ## Install Process
 
 First, we need to install the
@@ -48,6 +59,7 @@ You may want to do the following:
 sudo apt update
 sudo apt upgrade
 
-# installing git, cannot happen without installing updates first
-sudo apt install git
+# installs git, NodeJS, and npm
+# will be required for a lot of our work
+sudo apt install git nodejs npm
 ```
