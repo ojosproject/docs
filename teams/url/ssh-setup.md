@@ -49,6 +49,18 @@ ssh-add ~/.ssh/GitLab
 
 It will then prompt you for the passphrase you added to your SSH key.
 
+**IMPORTANT: You will need to do this every time you log out of your computer.**
+
+If you want to check if your SSH key is still in the SSH agent, you can run:
+
+```shell
+ssh-add -l
+```
+
+This will provide a list of available keys (identities). If it says the agent
+could not be connected, run the `eval` command. If it says the agent has no
+identities, run the `ssh-add <path>` command from above.
+
 ## Concluding
 
 Once you've created the key, added it to GitLab, and started the SSH agent, you
