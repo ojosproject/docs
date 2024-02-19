@@ -25,8 +25,8 @@ install the WSL,
 > winget uninstall -e --id GnuPG.Gpg4win
 > ```
 
-If you are on macOS, you'll have to install `gpg` using Homebrew using this
-command:
+If you are on macOS, you'll have to install `gpg` using
+[Homebrew](https://brew.sh/) using this command:
 
 ```shell
 brew install gpg
