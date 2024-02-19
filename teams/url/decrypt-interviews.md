@@ -6,18 +6,33 @@ I hope you're comfortable with the terminal.
 Installation
 ------------
 
-If you're on Windows, please use Windows Powershell. If you're on macOS or
-Linux, you can use whichever teminal you're most comfortable with, as long as
-it's Bash-based.
+> Note on the Windows installation:
+>
+> I am no longer recommending the Windows install of the `GnuPG.Gpg4win` package.
+I feel it is a better idea the entire URL team uses a Unix-like system to ensure
+we can all use the same Unix-like commands. Having to support Windows, a
+non-Unix-like environment, will make it so that we have to provide instructions
+for two different environments.
+>
+> If you are using Windows, please read
+[these instructions for installing the Windows Subsystem for Linux](https://gitlab.com/ojosproject/docs/-/blob/main/teams/url/installing-wsl.md). If you do not want to
+install the WSL,
+[here are the old instructions for installing the `GnuPG.Gpg4win` package](https://gitlab.com/ojosproject/docs/-/blob/b694c2afb5287b93f2dc6f0d29ca2cc7d0642b40/teams/url/decrypt-interviews.md).
+>
+> If you want to remove the `GnuPG.Gpg4win` package, please run:
+>
+> ```shell
+> winget uninstall -e --id GnuPG.Gpg4win
+> ```
 
-For Linux and macOS users, you'll probably already have the `gpg` command ready
-to go. For Windows users, you need to download gpg using:
+If you are on macOS, you'll have to install `gpg` using Homebrew using this
+command:
 
 ```shell
-winget install -e --id GnuPG.Gpg4win
+brew install gpg
 ```
 
-Once gpg is installed, you can continue.
+If you are on Linux, the `gpg` command should automatically be available.
 
 Decryption
 ----------
