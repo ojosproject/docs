@@ -32,7 +32,11 @@ If you are on macOS, you'll have to install `gpg` using
 brew install gpg
 ```
 
-If you are on Linux, the `gpg` command should automatically be available.
+If you are on Linux, install `gpg` using...
+
+```shell
+sudo apt install gpg
+```
 
 Decryption
 ----------
