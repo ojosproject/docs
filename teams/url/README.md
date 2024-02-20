@@ -21,6 +21,12 @@ The current responsibilities of the URL team include:
 Tools
 -----
 
+> Note:
+>
+> Most, if not all, of the documentation in the URL folder assumes you are
+> running macOS or a Debian-based Linux distro. **Please use macOS, Linux, or
+> WSL for work related to the Ojos Project.** Thanks!
+
 We try to use similar tools to ensure consistency throughout the team. Some of
 the tools we use are:
 
