@@ -71,3 +71,5 @@ cd scripts
 # run the setup script
 bash linux-setup/linux-setup.sh
 ```
+
+Please follow the instructions provided by the script.
