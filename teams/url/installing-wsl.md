@@ -59,7 +59,7 @@ You may want to do the following:
 sudo apt update
 sudo apt upgrade
 
-# installs git, NodeJS, and npm
+# installs git, NodeJS, npm, and gpg
 # will be required for a lot of our work
-sudo apt install git nodejs npm
+sudo apt install git nodejs npm gpg
 ```
