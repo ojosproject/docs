@@ -18,3 +18,13 @@ The relationship between the two includes the following:
 2. The URL team sends an academic article that requires reading
 3. The Research team reads on the topic or the journal article and put their
 findings on a Google Doc.
+
+Tools
+-----
+
+These are some of the tools the Research team will use:
+
+|Tool|URL|Reason|
+|---|---|---|
+|Master Research Doc|[Google Docs](https://docs.google.com/document/d/1NK4KhvDtAmVT-2tfs4LrsvgLWV4tUc-RgwHvG7LeYDs/)|Ensures all of our research is in the same document.|
+|PDFs Folder|[Google Docs](https://drive.google.com/drive/folders/1KI2TzU9IiIxW-12PeD3PIpQ0SD_T1nq0)|Ensures we don't lose any of our research to [dead links](https://en.wikipedia.org/wiki/Link_rot).|
