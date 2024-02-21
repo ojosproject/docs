@@ -1,6 +1,6 @@
 # README
 
-Please select a template from the "Choose a template" dropdown menu and will out
+Please select a template from the dropdown menu below "Description" and fill out
 the requested information.
 
 **Do not submit this as is.**
