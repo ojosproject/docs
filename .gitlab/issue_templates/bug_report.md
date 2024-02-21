@@ -16,4 +16,3 @@
 and code, as it's very hard to read otherwise.)
 
 /label ~bug
-/assign @calejvaldez
