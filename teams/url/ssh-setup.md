@@ -36,30 +36,22 @@ Once that's done, add your key to GitLab, ensure it's a key for
 
 ## Using the SSH Agent
 
-You're probably going to need to use the SSH agent. To do this, run these
-commands in Linux (or WSL):
+If you ran the
+[`linux-setup.sh` file](https://gitlab.com/ojosproject/scripts/-/tree/main/linux-setup)
+during your Linux setup, you have two useful commands.
 
 ```shell
-# starts the SSH agent
-eval $(ssh-agent -s)
+# activates the SSH Agent
+# adds GitLab identity
+# NEEDS TO BE DONE EVERY TERMINAL SESSION
+activate
 
-# adding the key to the agent, has to be done every reboot
-ssh-add ~/.ssh/GitLab
+# if you don't know if the SSH agent is active, run this command
+check
 ```
 
-It will then prompt you for the passphrase you added to your SSH key.
-
-**IMPORTANT: You will need to do this every time you log out of your computer.**
-
-If you want to check if your SSH key is still in the SSH agent, you can run:
-
-```shell
-ssh-add -l
-```
-
-This will provide a list of available keys (identities). If it says the agent
-could not be connected, run the `eval` command. If it says the agent has no
-identities, run the `ssh-add <path>` command from above.
+If you want to learn how to do this manually, which I highly encourage,
+[read the old documentation here](https://gitlab.com/ojosproject/docs/-/blob/e98bc507eae3acb89326d54010c4ad59fd81124a/teams/url/ssh-setup.md#using-the-ssh-agent).
 
 ## Concluding
 
