@@ -64,12 +64,12 @@ sudo apt install git
 mkdir Git
 cd Git
 
-# clone the repo, cd into it
+# clone the repo, cd into the linux-setup folder
 git clone https://gitlab.com/ojosproject/scripts.git
-cd scripts
+cd scripts/linux-setup
 
 # run the setup script
-bash linux-setup/linux-setup.sh
+bash linux-setup.sh
 ```
 
 Please follow the instructions provided by the script.
