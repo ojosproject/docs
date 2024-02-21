@@ -6,8 +6,9 @@ template for other repositories**.
 
 ## Syncing
 
-To copy these templates, please run the following command:
+To copy these templates, please run the following commands:
 
 ```shell
-cp -r ./[this_repo_folder]/.gitlab/issue_templates/ ./[other_repo_folder].gitlab/
+mkdir -p .gitlab/issue_templates/
+cp -r ./[this_repo_folder]/.gitlab/issue_templates/ ./[other_repo_folder]/.gitlab/
 ```
