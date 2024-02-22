@@ -20,13 +20,20 @@ const sidebars: SidebarsConfig = {
     ]
   },
 
-  urlTeamSidebar: [
+  urlTeamSidebar: {
+    'General': [
       'teams/url/adding-to-news',
       'teams/url/decrypt-interviews',
       'teams/url/installing-wsl',
       'teams/url/ssh-setup',
-      'teams/url/updating-docs'
-  ],
+      'teams/url/updating-docs',
+    ],
+    'Requirements': [
+      'teams/url/requirements/stakeholders'
+    ]
+  }
+  
+  ,
 
   researchTeamSidebar: [
       'teams/research/reasearching-and-reporting'
