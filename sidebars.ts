@@ -14,7 +14,6 @@ const sidebars: SidebarsConfig = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
 
   teamSidebar: {
-    "Glossary": ['teams/glossary'],
     'Teams': [
       'teams/url/README',
       'teams/research/README'
@@ -22,7 +21,6 @@ const sidebars: SidebarsConfig = {
   },
 
   urlTeamSidebar: {
-    "Glossary": ['teams/glossary'],
     'URL Team': [
       'teams/url/adding-to-news',
       'teams/url/decrypt-interviews',
@@ -32,7 +30,6 @@ const sidebars: SidebarsConfig = {
   },
 
   researchTeamSidebar: {
-    "Glossary": ['teams/glossary'],
     'Research': [
       'teams/research/reasearching-and-reporting'
     ]

@@ -50,7 +50,20 @@ const config: Config = {
         alt: 'Ojos Project logo',
         src: 'img/logo.svg',
       },
-      items: [],
+      items: [
+        {
+          type: 'doc',
+          position: 'left',
+          docId: 'intro',
+          label: 'Home'
+        },
+        {
+          type: 'doc',
+          position: 'left',
+          docId: 'teams/glossary',
+          label: 'Glossary'
+        }
+      ],
     },
     footer: {
       style: 'dark',
