@@ -1,3 +1,6 @@
+---
+displayed_sidebar: urlTeamSidebar
+---
 # Adding a news article
 
 Our blog is located at `ojosproject.org/news/`. Updating the website for the

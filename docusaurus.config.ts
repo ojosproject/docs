@@ -6,6 +6,8 @@ const config: Config = {
   title: 'Ojos Project Docs',
   favicon: 'img/favicon.ico',
 
+  trailingSlash: true,
+
   // Set the production url of your site here
   url: 'https://docs.ojosproject.org/',
   // Set the /<baseUrl>/ pathname under which your site is served

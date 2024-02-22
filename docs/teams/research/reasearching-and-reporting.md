@@ -1,3 +1,7 @@
+---
+displayed_sidebar: researchTeamSidebar
+---
+
 # Researching and Reporting Your Findings
 
 The Ojos Project puts all of our findings in

@@ -1,3 +1,7 @@
+---
+displayed_sidebar: urlTeamSidebar
+---
+
 # SSH Setup
 
 This will help you get through the SSH setup.
