@@ -24,7 +24,8 @@ const sidebars: SidebarsConfig = {
       'teams/url/adding-to-news',
       'teams/url/decrypt-interviews',
       'teams/url/installing-wsl',
-      'teams/url/ssh-setup'
+      'teams/url/ssh-setup',
+      'teams/url/updating-docs.md'
   ],
 
   researchTeamSidebar: [
