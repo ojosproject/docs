@@ -32,7 +32,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://gitlab.com/ojosproject/docs',
+            'https://gitlab.com/ojosproject/docs/-/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
