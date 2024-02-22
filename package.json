@@ -5,7 +5,7 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "docusaurus build",
+    "build": "echo \"---\ndisplayed_sidebar: teamSidebar\n---\n\" > docs/intro.md; cat README.md >> docs/intro.md; docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear; docusaurus start",
