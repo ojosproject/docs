@@ -72,3 +72,14 @@ constantly.**
 ### Government/HIPPA
 
 ...
+
+## Current Unknowns
+
+These are elements of this document that we still need to look into. Research
+and interviews can be conducted for this.
+
+- What are the concerns of the hospice agency?
+- What are the concerns of hospice nurses?
+- What are the concerns of patients?
+- What does "area of expertise" mean in our situation?
+- How does the government/HIPPA fit in?
