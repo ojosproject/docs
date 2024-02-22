@@ -3,7 +3,7 @@ stages:
   - deploy
 
 
-image: node:16.5.0
+image: node:18.0
 
 build:
   stage: build
