@@ -10,7 +10,7 @@ This will help you get through the SSH setup.
 
 If you are on Windows, you need to install the Windows Subsystem for Linux.
 Please go
-[read and do that first](https://docs.ojosproject.org/docs/teams/url/installing-wsl/).
+[read and do that first](/docs/teams/url/installing-wsl/).
 
 ## Using the script
 
@@ -20,7 +20,7 @@ script, do the following:
 
 ```shell
 git clone https://gitlab.com/ojosproject/scripts
-cd scripts
+cd scripts/ssh-setup/
 ```
 
 To run it, do...
