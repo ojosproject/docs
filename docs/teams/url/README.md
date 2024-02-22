@@ -36,3 +36,15 @@ the tools we use are:
 |Windows Subsystem for Linux|[Installing the Windows Subsystem for Linux](https://gitlab.com/ojosproject/docs/-/blob/main/teams/url/installing-wsl.md)|Ensuring Windows users can use the same bash scripts without fully transitioning to Linux.|
 |GPG|[Decrypting the Interviews](https://gitlab.com/ojosproject/docs/-/blob/main/teams/url/decrypt-interviews.md)|We use GPG to encrypt/decrypt interviews.|
 |SSH|[SSH Setup](https://gitlab.com/ojosproject/docs/-/blob/main/teams/url/ssh-setup.md)|We use SSH to communicate with GitLab.|
+
+Custom bash commands
+--------------------
+
+These are commands created via the `.zshrc` file.
+
+|Command|Substitute for|Usage|
+|---|---|---|
+|`cdrive`|`cd /mnt/c/Users/[username]`|For WSL users, will take you to your home directory.|
+|`check`|`ssh-add -l`|Checks to see if there are identities in the SSH agent.|
+|`activate`|`eval $(ssh-agent -s) && ssh-add ~/.ssh/GitLab`|Activates the SSH agent and adds the `GitLab` identity.|
+|`config`|`vim ~/.zshrc`|Uses `vim` to open the `.zshrc`.|

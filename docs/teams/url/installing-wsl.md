@@ -52,14 +52,24 @@ can be the same as your Windows credentials, it really doesn't matter.
 
 Congrats, we now have Linux on Windows! ✨
 
-You may want to do the following:
+Please do the following to continue the setup:
 
 ```shell
-# installing updates
+# installing git
 sudo apt update
 sudo apt upgrade
+sudo apt install git
 
-# installs git, NodeJS, and npm
-# will be required for a lot of our work
-sudo apt install git nodejs npm
+# make a new folder for Git repos
+mkdir Git
+cd Git
+
+# clone the repo, cd into the linux-setup folder
+git clone https://gitlab.com/ojosproject/scripts.git
+cd scripts/linux-setup
+
+# run the setup script
+bash linux-setup.sh
 ```
+
+Please follow the instructions provided by the script.
