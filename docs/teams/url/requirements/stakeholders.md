@@ -3,7 +3,18 @@ displayed_sidebar: urlTeamSidebar
 ---
 # Stakeholder Model
 
+:::info
+
+This document is a work in progress and is not yet finalized. As with all
+requirements analysis, this is iterative.
+
+:::
+
 This document will outline the stakeholders for the Ojos device.
+
+## Pictoral Graph
+
+This is still being worked on. ✍️
 
 ## Textual Analysis
 
@@ -23,7 +34,7 @@ constantly.**
   - Government/HIPPA: Government oversees agency
 - Area of expertise: Highly knowledgable
 - Primary concerns
-  - ...
+  - ???
 
 ### Hospice Nurse
 
@@ -35,7 +46,7 @@ constantly.**
   - Government/HIPPA: Nurses regulated by HIPPA law
 - Area of expertise: Highly knowledgable
 - Primary concerns
-  - ...
+  - ???
 
 ### Caregivers
 
@@ -44,7 +55,7 @@ constantly.**
   - Agency: Caregivers contract agency
   - Nurse: Caregivers' first line of communication
   - Patient: Caregivers oversee patient's state and needs
-  - Government/HIPPA: ...
+  - Government/HIPPA: ???
 - Area of expertise: Depends, usually not too much
 - Primary concerns
   - Patient gets good quality care
@@ -67,7 +78,7 @@ constantly.**
   - Government/HIPPA: Patient information stays safe bc of HIPPA
 - Area of expertise: Depends, usually not too much
 - Primary concerns:
-  - ...
+  - ???
 
 ### Government/HIPPA
 
