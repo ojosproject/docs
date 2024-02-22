@@ -29,7 +29,9 @@ const sidebars: SidebarsConfig = {
       'teams/url/updating-docs',
     ],
     'Requirements': [
-      'teams/url/requirements/stakeholders'
+      'teams/url/requirements/stakeholders',
+      'teams/url/requirements/nonfunctional-requirements',
+      'teams/url/requirements/user-stories'
     ]
   }
   

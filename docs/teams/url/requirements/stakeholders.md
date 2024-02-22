@@ -10,7 +10,10 @@ requirements analysis, this is iterative.
 
 :::
 
-This document will outline the stakeholders for the Ojos device.
+Stakeholders are individuals that influence a system's requirements or are
+impacted by that system. Identifying who the stakeholders are and what their
+goals/priorities are early-on is important as it can help guide us with what we
+need to look into or research. See [Current Unknowns](#current-unknowns).
 
 ## Pictoral Graph
 
