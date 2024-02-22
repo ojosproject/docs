@@ -20,33 +20,16 @@ const sidebars: SidebarsConfig = {
     ]
   },
 
-  urlTeamSidebar: {
-    'URL Team': [
+  urlTeamSidebar: [
       'teams/url/adding-to-news',
       'teams/url/decrypt-interviews',
       'teams/url/installing-wsl',
       'teams/url/ssh-setup'
-    ]
-  },
-
-  researchTeamSidebar: {
-    'Research': [
-      'teams/research/reasearching-and-reporting'
-    ]
-  }
-
-  // But you can create a sidebar manually
-  /*
-  tutorialSidebar: [
-    'intro',
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
   ],
-   */
+
+  researchTeamSidebar: [
+      'teams/research/reasearching-and-reporting'
+  ]
 };
 
 export default sidebars;

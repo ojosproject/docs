@@ -12,8 +12,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}<br/>
-          (Unstable Beta)
+          {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
@@ -35,8 +34,6 @@ export default function Home(): JSX.Element {
       title={`Home`}
       description="View the documentation provided by the Ojos Project.">
       <HomepageHeader />
-      <main>
-      </main>
     </Layout>
   );
 }

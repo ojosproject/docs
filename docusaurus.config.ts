@@ -43,12 +43,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/oembed.png',
     navbar: {
       title: 'Docs',
       logo: {
         alt: 'Ojos Project logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
