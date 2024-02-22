@@ -9,7 +9,7 @@
     "copy": "echo \"---\ndisplayed_sidebar: teamSidebar\n---\n\" > docs/intro.md; cat README.md >> docs/intro.md;",
     "swizzle": "docusaurus swizzle",
     "deploy": "npm run copy; docusaurus deploy",
-    "clear": "docusaurus clear; docusaurus start",
+    "clear": "docusaurus clear; npm run start",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
