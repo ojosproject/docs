@@ -33,6 +33,8 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           editUrl:
             'https://gitlab.com/ojosproject/docs/-/tree/main/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true
         },
         theme: {
           customCss: './src/css/custom.css',
