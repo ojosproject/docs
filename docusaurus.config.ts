@@ -54,12 +54,6 @@ const config: Config = {
         {
           type: 'doc',
           position: 'left',
-          docId: 'intro',
-          label: 'Home'
-        },
-        {
-          type: 'doc',
-          position: 'left',
           docId: 'teams/glossary',
           label: 'Glossary'
         }
