@@ -19,7 +19,7 @@ non-Unix-like environment, will make it so that we have to provide instructions
 for two different environments.
 >
 > If you are using Windows, please read
-[these instructions for installing the Windows Subsystem for Linux](https://gitlab.com/ojosproject/docs/-/blob/main/teams/url/installing-wsl.md). If you do not want to
+[these instructions for installing the Windows Subsystem for Linux](https://docs.ojosproject.org/docs/teams/url/installing-wsl/). If you do not want to
 install the WSL,
 [here are the old instructions for installing the `GnuPG.Gpg4win` package](https://gitlab.com/ojosproject/docs/-/blob/b694c2afb5287b93f2dc6f0d29ca2cc7d0642b40/teams/url/decrypt-interviews.md).
 >

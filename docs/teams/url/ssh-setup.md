@@ -10,7 +10,7 @@ This will help you get through the SSH setup.
 
 If you are on Windows, you need to install the Windows Subsystem for Linux.
 Please go
-[read and do that first](https://gitlab.com/ojosproject/docs/-/blob/main/teams/url/installing-wsl.md).
+[read and do that first](https://docs.ojosproject.org/docs/teams/url/installing-wsl/).
 
 ## Using the script
 

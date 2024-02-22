@@ -37,9 +37,9 @@ the tools we use are:
 |Tool|Setup|Reason|
 |---|---|---|
 |macOS or Linux|N/A|Ensuring we can use the same bash scripts.|
-|Windows Subsystem for Linux|[Installing the Windows Subsystem for Linux](https://gitlab.com/ojosproject/docs/-/blob/main/teams/url/installing-wsl.md)|Ensuring Windows users can use the same bash scripts without fully transitioning to Linux.|
-|GPG|[Decrypting the Interviews](https://gitlab.com/ojosproject/docs/-/blob/main/teams/url/decrypt-interviews.md)|We use GPG to encrypt/decrypt interviews.|
-|SSH|[SSH Setup](https://gitlab.com/ojosproject/docs/-/blob/main/teams/url/ssh-setup.md)|We use SSH to communicate with GitLab.|
+|Windows Subsystem for Linux|[Installing the Windows Subsystem for Linux](https://docs.ojosproject.org/docs/teams/url/installing-wsl/)|Ensuring Windows users can use the same bash scripts without fully transitioning to Linux.|
+|GPG|[Decrypting the Interviews](https://docs.ojosproject.org/docs/teams/url/decrypt-interviews/)|We use GPG to encrypt/decrypt interviews.|
+|SSH|[SSH Setup](https://docs.ojosproject.org/docs/teams/url/ssh-setup/)|We use SSH to communicate with GitLab.|
 
 Custom bash commands
 --------------------
