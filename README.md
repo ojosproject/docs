@@ -1,17 +1,30 @@
-# docs
+# Ojos Project
 
-This is a collection of Markdown files that explain things that may be useful to
-the Ojos Project team. The structure of the documents change constantly, so
-please try to stay on top of it.
+Welcome to the Ojos Project documentation! This is a collection of Markdown
+files organized to help you get a better understanding of us as a team and our
+work.
+
+The Ojos Project currently has two teams:
+
+- [Research Team](https://docs.ojosproject.org/docs/teams/research/)
+- [URL Team](https://docs.ojosproject.org/docs/teams/url/)
 
 ## Contributing
 
-If you are a team member and would like to contribute to these documents,
-please push a commit to the `proposal` branch. This will be reviewed by Carlos
-and, if approved, merged into the `main` branch.
+If you are a member of the Ojos Project, you can add your changes to the `dev`
+branch.
+
+If you are an open-source contributor, you can create a fork of these documents
+and open a
+[Merge request](https://docs.gitlab.com/ee/user/project/merge_requests/).
+
+There is also a "Edit this page" button at the end of these documents in
+[docs.ojosproject.org](https://docs.ojosproject.org/) that will take you to the
+file in the GitLab repository.
 
 ## Need help?
 
 If anything in these documents do not make sense, please contact Carlos Valdez
 any way you know how, or via email at
-[cvaldezh@uci.edu](mailto:cvaldezh@uci.edu). Thanks!
+[cvaldezh@uci.edu](mailto:cvaldezh@uci.edu). You can also
+[open an issue on GitLab](https://gitlab.com/ojosproject/docs/-/issues). Thanks!
