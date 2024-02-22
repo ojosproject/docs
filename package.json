@@ -5,8 +5,8 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "npm run copy; docusaurus start",
-    "build": "docusaurus build",
     "copy": "echo \"---\ndisplayed_sidebar: teamSidebar\n---\n\" > docs/intro.md; cat README.md >> docs/intro.md;",
+    "build": "npm run copy; docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "npm run copy; docusaurus deploy",
     "clear": "docusaurus clear; npm run start",
