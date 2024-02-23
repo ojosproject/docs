@@ -23,11 +23,14 @@ const sidebars: SidebarsConfig = {
   urlTeamSidebar: {
     'General': [
       'teams/url/adding-to-news',
-      'teams/url/decrypt-interviews',
       'teams/url/gitlab-ide',
+      'teams/url/updating-docs',
+      'teams/url/raspberry-pi'
+    ],
+    'Setup Guides': [
+      'teams/url/decrypt-interviews',
       'teams/url/installing-wsl',
       'teams/url/ssh-setup',
-      'teams/url/updating-docs',
     ],
     'Requirements': [
       'teams/url/requirements/stakeholders',
