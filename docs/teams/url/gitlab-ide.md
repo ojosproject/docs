@@ -30,9 +30,6 @@ branch icon either labeled `main` or `dev`. Please switch to `dev`.
 The website documentation is written in Markdown. Please use
 [QuickRef.ME](https://quickref.me/markdown) to learn more.
 
-The reason we're using plaintext is because
-[in the long run, it's easier to manage](https://www.youtube.com/watch?v=WgV6M1LyfNY&pp=ygUJcGxhaW50ZXh0).
-
 ## Error displaying webview
 
 If you get an error stating that the webview could not be viewed, it is because
