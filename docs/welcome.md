@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: teamSidebarn
+displayed_sidebar: teamSidebar
 ---
 # Welcome
 
