@@ -3,7 +3,7 @@ displayed_sidebar: urlTeamSidebar
 ---
 
 
-# Stakeholder Analysis
+# Stakeholders Analysis
 
 :::info
 
