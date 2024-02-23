@@ -28,7 +28,9 @@ branch icon either labeled `main` or `dev`. Please switch to `dev`.
 ## What is this written in?
 
 The website documentation is written in Markdown. Please use
-[QuickRef.ME](https://quickref.me/markdown) to learn more.
+[QuickRef.ME](https://quickref.me/markdown) to learn more. Some of this content
+is also written with admonitions. You can learn more about them using the
+[Docusaurus docs](https://docusaurus.io/docs/markdown-features/admonitions).
 
 ## Error displaying webview
 
