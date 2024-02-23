@@ -24,6 +24,7 @@ const sidebars: SidebarsConfig = {
     'General': [
       'teams/url/adding-to-news',
       'teams/url/decrypt-interviews',
+      'teams/url/gitlab-ide',
       'teams/url/installing-wsl',
       'teams/url/ssh-setup',
       'teams/url/updating-docs',
