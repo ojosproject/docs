@@ -33,10 +33,8 @@ const sidebars: SidebarsConfig = {
       'teams/url/ssh-setup',
     ],
     'Requirements': [
+      'teams/url/requirements/README',
       'teams/url/requirements/interviews',
-      'teams/url/requirements/stakeholders',
-      'teams/url/requirements/nonfunctional-requirements',
-      'teams/url/requirements/user-stories'
     ]
   }
   
