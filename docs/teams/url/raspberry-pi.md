@@ -16,7 +16,7 @@ Learn more about it on the
 
 :::info
 
-It is not 100% confirmed that we will use the awesomw window manager for this
+It is not 100% confirmed that we will use the awesome window manager for this
 project. This is just an option for now.
 
 :::

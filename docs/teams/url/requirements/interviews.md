@@ -27,13 +27,13 @@ Interviews will be recorded and kept on our personal devices. Any interviews
 that are uploaded to Google Drive will be encrypted using a 20-character
 passphrase. Only authorized individuals will be given the passphrase.
 
-### Anonimity
+### Anonymity
 
 Individual's names will not be published. Any notes we have of the interview
 will have any individual's names removed.
 
 Furthermore, we may choose to publish our findings. If we decide to do so, all
-information will be anonimized.
+information will be anonymized.
 
 ### Interview Reminders
 
@@ -83,11 +83,11 @@ When asking for consent, please use the following statement:
 We sometimes conduct interviews with Spanish-speaking individuals. If that is
 the case, please use this statement:
 
-> Mi nombre es [YOUR NAME], y soy estudiante de la Universidad de California, Irvine. Esta entrevista es para entender su expereicia cuidando a alguien en hospicio. Nuesta meta es crear un dispositivo que ayudara a la gente en esa posicion con un ser querido en hospicio. La informacion que nos dara nos ayudara entender mejor como ayudar a la gente en esa pocision. Esta entrevista es voluntaria, y si algun punto se siente incomod@ o quiere terminar la entrevista, usted tiene ese derecho. Esta entrevista sera confidencial, y cualquier informacion que escogemos publicar sera anonimada.
+> Mi nombre es [YOUR NAME], y soy estudiante de la Universidad de California, Irvine. Esta entrevista es para entender su experiencia cuidando a alguien en hospicio. Nuestra meta es crear un dispositivo que ayudara a la gente en esa posición con un ser querido en hospicio. La información que nos dará nos ayudara entender mejor como ayudar a la gente en esa posición. Esta entrevista es voluntaria, y si algún punto se siente incómod@ o quiere terminar la entrevista, usted tiene ese derecho. Esta entrevista sera confidencial, y cualquier información que escogemos publicar sera anonimizado.
 >
-> Si tiene algunas preguntas, preguntame a mi y te dare una respuesta. Si te deje con alguna pregunta, le puede mandar correo electronico a Carlos Valdez en `cvaldezh@uci.edu`.
+> Si tiene algunas preguntas, pregúntame a mi y te dare una respuesta. Si te deje con alguna pregunta, le puede mandar correo electrónico a Carlos Valdez en `cvaldezh@uci.edu`.
 >
-> Esta informacion tambien se le mando por correo electronico. Tenemos su permiso hacer esta entrevista?
+> Esta información también se le mando por correo electrónico. Tenemos su permiso hacer esta entrevista?
 
 ## Healthcare Interviews
 
