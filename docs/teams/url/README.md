@@ -28,8 +28,8 @@ Tools
 :::info
 
 Most, if not all, of the documentation for URL assumes you are running macOS or
-a Debian-based Linux distro. **Please use macOS, Linux, or WSL for work related
-to the Ojos Project.** Thanks!
+a Debian-based Linux distribution. **Please use macOS, Linux, or WSL for work
+related to the Ojos Project.** Thanks!
 
 :::
 

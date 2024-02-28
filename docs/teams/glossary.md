@@ -4,7 +4,7 @@ displayed_sidebar: teamSidebar
 
 # Glossary
 
-This is a glossary of the terms we use. Please use these consistantly.
+This is a glossary of the terms we use. Please use these consistently.
 
 |Term|Description|
 |---|---|
