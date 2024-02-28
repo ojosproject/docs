@@ -1,5 +1,20 @@
 {
     "cSpell.words": [
-        "Ojos"
-    ]
+        // These are words that cSpell does not recognize, but are words we
+        // know to be correct.
+        "anonimizado",
+        "cdrive",
+        "dism",
+        "featurename",
+        "Flix",
+        "incómod",
+        "LXDE",
+        "neofetch",
+        "norestart",
+        "Ojos",
+        "ojosproject",
+        "raspi",
+        "xinitrc"
+    ],
+    "cSpell.language": "en,es"
 }
