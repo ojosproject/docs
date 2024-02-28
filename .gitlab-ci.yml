@@ -1,7 +1,7 @@
 stages:
   - build-test
 
-image: node:16.5.0
+image: node
 
 build:
   stage: build-test
