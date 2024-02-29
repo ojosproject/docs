@@ -34,8 +34,10 @@ const config: Config = {
           editUrl:
             'https://gitlab.com/ojosproject/docs/-/tree/dev/',
           showLastUpdateAuthor: true,
-          showLastUpdateTime: true
+          showLastUpdateTime: true,
+          routeBasePath: '/'
         },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },

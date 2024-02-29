@@ -1,4 +1,5 @@
 ---
+slug: /
 displayed_sidebar: teamSidebar
 ---
 # Welcome
@@ -9,8 +10,8 @@ work.
 
 The Ojos Project currently has two teams:
 
-- [Research Team](/docs/teams/research/)
-- [URL Team](/docs/teams/url/)
+- [Research Team](/teams/research/)
+- [URL Team](/teams/url/)
 
 ## What do these docs have?
 
