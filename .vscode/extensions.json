@@ -15,6 +15,9 @@
         // Spell checking
         "streetsidesoftware.code-spell-checker",
 
+        // Same as above, but for Spanish
+        "streetsidesoftware.code-spell-checker-spanish",
+
         // Makes comments stand out more
         "aaron-bond.better-comments",
 
