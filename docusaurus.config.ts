@@ -34,8 +34,10 @@ const config: Config = {
           editUrl:
             'https://gitlab.com/ojosproject/docs/-/tree/dev/',
           showLastUpdateAuthor: true,
-          showLastUpdateTime: true
+          showLastUpdateTime: true,
+          routeBasePath: '/'
         },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -50,7 +52,8 @@ const config: Config = {
       title: 'Docs',
       logo: {
         alt: 'Ojos Project logo',
-        src: 'img/logo.png',
+        src: 'img/ojos-space.png',
+        className: 'ojos_logo_in_navbar'
       },
       items: [
         {

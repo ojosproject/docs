@@ -10,7 +10,7 @@ This will help you get through the SSH setup.
 
 If you are on Windows, you need to install the Windows Subsystem for Linux.
 Please go
-[read and do that first](/docs/teams/url/installing-wsl/).
+[read and do that first](/teams/url/installing-wsl/).
 
 ## Using the script
 
