@@ -52,7 +52,8 @@ const config: Config = {
       title: 'Docs',
       logo: {
         alt: 'Ojos Project logo',
-        src: 'img/logo.png',
+        src: 'img/ojos-space.png',
+        className: 'ojos_logo_in_navbar'
       },
       items: [
         {
