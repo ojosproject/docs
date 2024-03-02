@@ -2,7 +2,7 @@
 
 :::info
 
-This has been put in place. See [the ChaluBot page](teams/research/chalubot).
+This has been put in place. See [the ChaluBot page](/teams/research/chalubot).
 
 :::
 
