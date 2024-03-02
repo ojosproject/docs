@@ -42,7 +42,8 @@ const sidebars: SidebarsConfig = {
 
   researchTeamSidebar: [
       'teams/research/reasearching-and-reporting',
-      'teams/research/git-credit'
+      'teams/research/git-credit',
+      'teams/research/chalubot'
   ]
 };
 
