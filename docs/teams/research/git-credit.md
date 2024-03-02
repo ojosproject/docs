@@ -2,14 +2,9 @@
 
 :::info
 
-This is a proposal. Carlos is trying to get input from the Research Team before
-he starts working on this.
+This has been put in place. See [the ChaluBot page](/teams/research/chalubot).
 
 :::
-
-Something Carlos really values is data integrity. So, as a fun little thing, I
-want to implement a system where we can give git credit for individuals who
-participate in the Ojos Project.
 
 ## What is git credit?
 
@@ -64,46 +59,7 @@ sequenceDiagram
 
 ### Commands
 
-:::info
-
-These are just notes for Carlos as he is working on the Discord bot. This is
-absolutely not the final product and will likely change.
-
-:::
-
-|Command|Who can use|Description|
-|---|---|---|
-|`/assign <member> <paper id>`|Carlos|Assigns `<member>` a research paper.|
-|`/claim <paper id>`|Research Team|Team members can also claim research papers for themselves.|
-|`/add <paper id>`|Research Team|Opens a [long text box](https://discord.com/developers/docs/interactions/message-components#text-inputs) for you to add your notes. Make sure to use [Markdown](https://quickref.me/markdown)!|
-|`/commit <paper id>`|Research Team|This means your notes are finalized and ready to be published.|
-|`/list`|Ojos Project Team|Lists all papers, their status, and who is assigned to them.|
-
-
-### Techy Stuff
-
-Adding your changes to the git repository will require a command similar to:
-
-```shell
-git add teams/research/work/paper-id.md
-git commit -m "docs(research/paper-id): added paper-id notes" --author "FirstName LastName <email@example.com>"
-```
-
-:::warning
-
-Sometimes, Carlos will have to add some changes, such as validating Markdown or
-spell checks. In that case, Carlos will be added as a co-author.
-
-The git commit message should instead look something similar to:
-
-```plaintext
-docs(research/paper-id): added paper-id notes
-
-
-Co-authored-by: Carlos Valdez <cvaldezh@uci.edu>
-```
-
-:::
+Moved to the [ChaluBot page](/teams/research/chalubot#commands).
 
 ### Are there any privacy concerns?
 
