@@ -40,11 +40,20 @@ const sidebars: SidebarsConfig = {
   
   ,
 
-  researchTeamSidebar: [
+  researchTeamSidebar: {
+    'General': [
       'teams/research/reasearching-and-reporting',
       'teams/research/git-credit',
       'teams/research/chalubot'
-  ]
+    ],
+    'Notes': [
+      'teams/research/notes/0',
+      'teams/research/notes/1',
+      'teams/research/notes/2',
+      'teams/research/notes/3',
+      'teams/research/notes/5'
+    ]
+  }
 };
 
 export default sidebars;
