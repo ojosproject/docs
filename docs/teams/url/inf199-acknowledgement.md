@@ -1,3 +1,10 @@
+---
+description: This document goes into depth about IN4MATX 199 and who can/cannot enroll in this project for course credit.
+last_update:
+    date: 1709638538800
+    author: Carlos Valdez
+---
+
 # Informatics 199 Acknowledgement
 
 :::info
