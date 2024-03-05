@@ -1,5 +1,9 @@
 ---
 displayed_sidebar: urlTeamSidebar
+description: Want to edit our GitLab code without having to fight with SSH? Learn how to use the GitLab IDE tool!
+last_update:
+    date: 1709672472960
+    author: Carlos Valdez
 ---
 
 # Using the GitLab Web IDE
@@ -24,6 +28,14 @@ GitLab Web IDE.
 When you are going to add something to any project, please make sure to switch
 to the `dev` branch. At the bottom of the screen next to "GitLab", there is a
 branch icon either labeled `main` or `dev`. Please switch to `dev`.
+
+:::tip
+
+You will need to use GitLab IDE git features. If you'd like to learn how to
+commit make sure the repository saves your changes, please watch
+[this video](https://www.youtube.com/watch?v=i_23KUAEtUM).
+
+:::
 
 ## What is this written in?
 
