@@ -24,8 +24,9 @@ const sidebars: SidebarsConfig = {
     'General': [
       'teams/url/adding-to-news',
       'teams/url/gitlab-ide',
+      'teams/url/inf199-acknowledgement',
+      'teams/url/raspberry-pi',
       'teams/url/updating-docs',
-      'teams/url/raspberry-pi'
     ],
     'Setup Guides': [
       'teams/url/decrypt-interviews',
