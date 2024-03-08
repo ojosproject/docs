@@ -60,7 +60,7 @@ would use:
 
 ```shell
 git config --global user.name "Carlos Valdez"
-git config -global user.email "cvaldezh@uci.edu"
+git config --global user.email "cvaldezh@uci.edu"
 ```
 
 All identities must be structured the same. That is, preferred first name,
