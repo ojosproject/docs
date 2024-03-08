@@ -17,6 +17,9 @@ const sidebars: SidebarsConfig = {
     'Teams': [
       'teams/url/README',
       'teams/research/README'
+    ],
+    'Policies': [
+      'policies/git'
     ]
   },
 
