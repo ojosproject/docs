@@ -72,8 +72,9 @@ you must only have one identity (line) for yourself.
 git log | grep "Author: " | sort -u
 ```
 
-If that is not the case, a `.mailmap` file will be created to map your
-identities to each other.
+If that is not the case, a
+[`.mailmap`](https://ntietz.com/blog/git-mailmap-for-name-changes/) file will be
+created to map your identities to each other.
 
 ### `git` Credit
 
