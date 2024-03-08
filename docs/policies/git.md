@@ -117,6 +117,12 @@ Although we primarily use GitLab,
 Therefore, we will be using the Mirroring Repositories feature to create a
 GitHub mirror for backup purposes.
 
+All GitHub project descriptions must include the following:
+
+> This is a mirror of our GitLab repository. All work happens on GitLab.
+
+It must also include a link to the GitLab project.
+
 ### Pipelines
 
 When you push to any branch that is not `main`, you must ensure the
