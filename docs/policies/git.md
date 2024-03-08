@@ -63,6 +63,18 @@ git config --global user.name "Carlos Valdez"
 git config -global user.email "cvaldezh@uci.edu"
 ```
 
+All identities must be structured the same. That is, preferred first name,
+preferred last name, and your educational institution email address. There must
+only be one identity per individual too. That is, if I run the command below,
+you must only have one identity (line) for yourself.
+
+```shell
+git log | grep "Author: " | sort -u
+```
+
+If that is not the case, a `.mailmap` file will be created to map your
+identities to each other.
+
 ### `git` Credit
 
 Sometimes, you will need to commit for other individuals. There's two ways of
