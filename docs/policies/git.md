@@ -109,3 +109,29 @@ Pushing into the `main` branch will almost always be strictly forbidden unless
 you were given permission to do so. In fact, GitLab won't allow you to push into
 `main`. In order to get your changes in `main`, you must push/merge into `dev`.
 We will open raise a Merge Request from `dev` to `main`.
+
+### GitHub Backup
+
+Although we primarily use GitLab,
+[it has a reputation for destroying data](https://www.youtube.com/watch?v=tLdRBsuvVKc).
+Therefore, we will be using the Mirroring Repositories feature to create a
+GitHub mirror for backup purposes.
+
+### Pipelines
+
+When you push to any branch that is not `main`, you must ensure the
+`.gitlab-ci.yml` pipeline must succeed. Usually, it contains tests that ensure
+the `main` branch won't break, such as bundling or actual testing. If the repo
+has a `.gitlab-ci.yml` file, please take a look at it to see what it will be
+testing.
+
+### Checklist for new repos
+
+When creating a new repository, this must be done on GitLab:
+
+| Rule                                               | Location                                                |
+| -------------------------------------------------- | ------------------------------------------------------- |
+| Ensure branch protection for `main` (push limits)  | `/-/settings/repository` under "Protected Branches"     |
+| Ensure GitHub backup                               | `/-/settings/repository` under "Mirroring Repositories" |
+| Disable "Enable 'Delete source branch' by default" | `/-/settings/merge_requests` under "Merge options"      |
+| Enable "Pipelines must succeed"                    | `/-/settings/merge_requests` under "Merge checks"       |
