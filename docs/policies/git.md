@@ -1,7 +1,7 @@
 ---
 last_update:
     author: Carlos Valdez
-    date: 0
+    date: 1709943055573
 description: Read up on the Ojos Project policies for git and GitLab!
 ---
 
@@ -14,6 +14,18 @@ developers manage their many git repositories.
 This document will outline how we will use `git` in the Ojos Project.
 
 ## `git`
+
+### Commits
+
+Commits are similar to emails. I often like to use `git commit` instead of
+`git commit -m "your message"` so that I can properly make it feel like an
+email. Overall, think of it this way:
+
+The first line is the subject line of an email. The middle section is the body
+of the email.
+
+I won't go into commit conventions here, but
+[this article covers it perfectly](https://www.freecodecamp.org/news/how-to-write-commit-messages-maintainers-will-like/).
 
 ### Branching
 
@@ -60,7 +72,7 @@ would use:
 
 ```shell
 git config --global user.name "Carlos Valdez"
-git config -global user.email "cvaldezh@uci.edu"
+git config --global user.email "cvaldezh@uci.edu"
 ```
 
 All identities must be structured the same. That is, preferred first name,
@@ -72,8 +84,9 @@ you must only have one identity (line) for yourself.
 git log | grep "Author: " | sort -u
 ```
 
-If that is not the case, a `.mailmap` file will be created to map your
-identities to each other.
+If that is not the case, a
+[`.mailmap`](https://ntietz.com/blog/git-mailmap-for-name-changes/) file will be
+created to map your identities to each other.
 
 ### `git` Credit
 
