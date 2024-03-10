@@ -52,12 +52,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/oembed.png',
+    image: 'img/header.png',
     navbar: {
       title: 'Docs',
       logo: {
         alt: 'Ojos Project logo',
-        src: 'img/ojos-space.png',
+        src: 'img/logo-space.png',
         className: 'ojos_logo_in_navbar'
       },
       items: [
