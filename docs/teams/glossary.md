@@ -1,5 +1,10 @@
 ---
 displayed_sidebar: teamSidebar
+description: >
+    This is a glossary of the terms we use. Please use these consistently.
+last_update:
+    author: Carlos Valdez
+    date: February 28, 2024 1:49:26 PM PST
 ---
 
 # Glossary
