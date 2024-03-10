@@ -68,6 +68,6 @@ file. Please add the key to the `sidebars.ts` file. Please note the pattern!
 
 It's really simple. Just:
 
-- Include the `displayed_sidebar` key
+- Include the front matter
 - Write your content
 - Update `sidebars.ts` to include the location of your file
