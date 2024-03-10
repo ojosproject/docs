@@ -1,5 +1,11 @@
 ---
 displayed_sidebar: urlTeamSidebar
+description: >
+    This document will explain the process of how to add a new Markdown file to
+    the documentation. Out are the days of just adding the document...
+last_update:
+    author: Carlos Valdez
+    date: 1710096433155
 ---
 # Updating the documentation
 
@@ -19,19 +25,39 @@ just writing it up! That is... until *after* the setup.
 This document will explain the process of how to add a new Markdown file to
 the documentation. Out are the days of just adding the document...
 
-## The `displayed_sidebar` key
+## The front matter
+
+:::tip
+
+Helpful resources:
+
+- [Docusaurus documentation](https://docusaurus.io/docs/markdown-features#front-matter).
+- [YAML cheat sheet](https://quickref.me/yaml)
+
+:::
 
 On the top of every Markdown file will exist this text:
 
-```markdown
+```yaml
 ---
-displayed_sidebar: ...
+displayed_sidebar: null
+description: >
+    null
+last_update:
+    author: null
+    date: null
 ---
 ```
 
-This indicates the sidebar that will be displayed on the left of the screen. The
-available values are in
-[`sidebars.ts`](https://gitlab.com/ojosproject/docs/-/blob/main/sidebars.ts).
+Here's a table detailing what each key means:
+
+| Key                 | Type                                          | Description                                                                                                                                                             |
+| ------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `displayed_sidebar` | `sidebar.ts` key                              | The sidebar that will be displayed on the left of the screen. The available values are in [`sidebars.ts`](https://gitlab.com/ojosproject/docs/-/blob/main/sidebars.ts). |
+| `description`       | string                                        | The description that will be displayed on the website's [meta tags](https://www.w3schools.com/tags/tag_meta.asp).                                                       |
+| `last_update`       | [sequence](https://quickref.me/yaml#sequence) | The [last updated](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#last_update) data.                                                            |
+| `author`            | string                                        | Name of the person who wrote this document.                                                                                                                             |
+| `date`              | number                                        | Unix timestamp in milliseconds. I usually get it from the [Unix Epoch Clock](https://www.epochconverter.com/clock).                                                     |
 
 ## Updating the sidebar
 
