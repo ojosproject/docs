@@ -1,5 +1,11 @@
 ---
 displayed_sidebar: urlTeamSidebar
+description: >
+    This document will go over some important factors of the Raspberry Pi that
+    may be useful to us.
+last_update:
+    author: Carlos Valdez
+    date: February 28, 2024 1:49:26 PM PST
 ---
 # Raspberry Pi Notes
 

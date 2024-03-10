@@ -1,5 +1,11 @@
 ---
 displayed_sidebar: urlTeamSidebar
+description: >
+    Our blog is located at `ojosproject.org/news/`. Updating the website for the
+    blog is kind of complicated, so I'm going to outline it here.
+last_update:
+    author: Carlos Valdez
+    date: February 22, 2024 1:19:32 AM PST
 ---
 # Adding a news article
 

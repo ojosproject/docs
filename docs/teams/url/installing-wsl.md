@@ -1,5 +1,13 @@
 ---
 displayed_sidebar: urlTeamSidebar
+description: >
+    These are the instructions for installing the Windows Subsystem for Linux.
+    The Ojos Project will be writing scripts primarily for Unix-like operating
+    systems, so everyone in the Ojos URL team should use either WSL, macOS, or
+    Linux.
+last_update:
+    author: Carlos Valdez
+    date: February 21, 2024 7:57:56 PM PST
 ---
 
 # Installing the Windows Subsystem for Linux

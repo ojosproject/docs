@@ -1,5 +1,8 @@
 ---
 displayed_sidebar: researchTeamSidebar
+description: >
+    Welcome to the Ojos Project's Research team! We're excited to have you!
+    These are instructions for people who are just joining the team.
 last_update:
     author: Carlos Valdez
     date: 1709933926503

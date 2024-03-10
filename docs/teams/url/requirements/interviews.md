@@ -1,5 +1,12 @@
 ---
 displayed_sidebar: urlTeamSidebar
+description: >
+    This document will serve as the Ojos Project's interview protocol. It will
+    help us ensure we provide clear instructions to team members to ensure we
+    conduct proper interviews.
+last_update:
+    author: Carlos Valdez
+    date: February 28, 2024 1:49:26 PM PST
 ---
 
 # Interview Protocol

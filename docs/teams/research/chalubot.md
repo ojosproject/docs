@@ -1,3 +1,12 @@
+---
+description: >
+    ChaluBot is a Discord bot we use at the Ojos Project to organize our
+    research notes. This document includes the commands for the bots, as well as
+    how you might need to use it.
+last_update:
+    author: Carlos Valdez
+    date: March 2, 2024 12:17:54 AM PST
+---
 # ChaluBot
 
 :::info
