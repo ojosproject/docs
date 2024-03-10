@@ -1,5 +1,13 @@
 ---
 displayed_sidebar: urlTeamSidebar
+description: >
+    The URL team at the Ojos Project is in charge of building the device. There are
+    many definitions to the world "building", but eventually this team will be split
+    into more. As of now, this is the team that is physically present on-campus at
+    the University of California, Irvine.
+last_update:
+    author: Carlos Valdez
+    date: February 28, 2024 1:49:26 PM PST
 ---
 
 URL Team

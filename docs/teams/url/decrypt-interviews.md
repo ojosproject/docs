@@ -1,5 +1,11 @@
 ---
 displayed_sidebar: urlTeamSidebar
+description: >
+    This document will go into how to decrypt the interviews we conducted for
+    the Ojos Project. This will use `gpg`.
+last_update:
+    author: Carlos Valdez
+    date: February 22, 2024 2:42:55 PM PST
 ---
 
 Decrypting the Interviews

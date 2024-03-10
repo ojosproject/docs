@@ -1,5 +1,13 @@
 ---
 displayed_sidebar: researchTeamSidebar
+description: >
+    The Research Team at the Ojos Project is in charge of reading research papers
+    that may help with the development of our project. The Research Team's
+    responsibilities include reading academic papers and summarizing the content in
+    it.
+last_update:
+    author: Carlos Valdez
+    date: February 22, 2024 11:18:17 AM PST
 ---
 
 Research Team
