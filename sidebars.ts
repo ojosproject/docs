@@ -14,7 +14,8 @@ const sidebars: SidebarsConfig = {
       'teams/research/README'
     ],
     'Policies': [
-      'policies/git'
+      'policies/git',
+      'policies/image'
     ]
   },
 
