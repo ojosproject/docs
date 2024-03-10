@@ -1,3 +1,10 @@
+// sidebars.ts
+// Ojos Project
+// 
+// Defines the sidebars that the files in `/docs/` can use.
+// Learn more here:
+// https://docusaurus.io/docs/sidebar/
+
 import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 
 const sidebars: SidebarsConfig = {
