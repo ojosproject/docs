@@ -29,7 +29,8 @@ more.
 ## Add meetings to your calendar
 
 On Mondays at 10am, we have a meeting with our Research Advisor,
-[Dr. Mark S. Baldwin](https://markbaldw.in/). People are are enrolled **must**
+[Dr. Mark S. Baldwin](https://www.informatics.uci.edu/explore/faculty-profiles/mark-baldwin/).
+People are are enrolled **must**
 attend this meeting. If you are not enrolled, you may join if you'd like!
 
 We discuss our progress and the overall direction of where the project is
