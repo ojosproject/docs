@@ -1,7 +1,7 @@
 ---
 description: This document goes into depth about IN4MATX 199 and who can/cannot enroll in this project for course credit.
 last_update:
-    date: 1709638538800
+    date: 1710537568000
     author: Carlos Valdez
 ---
 
@@ -57,7 +57,8 @@ for any inconvenience this may cause.
 
 ## Who's enrolled?
 
-|Person|Member since|Enrolled since|
-|---|---|---|
-|Carlos Valdez|October 2023|October 2023|
-|Joseph Sweatt|October 2023|January 2024|
+| Person        | Member since | Enrolled since |
+| ------------- | ------------ | -------------- |
+| Carlos Valdez | October 2023 | October 2023   |
+| Joseph Sweatt | October 2023 | January 2024   |
+| Ayush Jain    | January 2024 | April 2024     |
