@@ -65,8 +65,14 @@ as any other roles you may need!
 ## Send us your email
 
 A lot of the stuff we do will require email addresses. We require that you send
-us an email that is associated with your institution, such as an `@uci.edu`
-email for UCI or `@students.imperial.edu` for Imperial Valley College.
+us an email that is associated with your institution. The following are the
+currently approved domains:
+
+| Domain                   | Institution                                                                         |
+| ------------------------ | ----------------------------------------------------------------------------------- |
+| `@uci.edu`               | [University of California, Irvine](https://uci.edu/)                                |
+| `@ics.uci.edu`           | [UCI Donald Bren School of Information and Computer Sciences](https://ics.uci.edu/) |
+| `@students.imperial.edu` | [Imperial Valley College](https://imperial.edu/)                                    |
 
 ## Set up your Gravatar
 
