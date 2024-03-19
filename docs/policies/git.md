@@ -61,6 +61,8 @@ gitGraph
     commit
     branch your-branch
     commit
+    commit
+    commit
     checkout dev
     merge your-branch
     commit
