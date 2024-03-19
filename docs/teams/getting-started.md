@@ -5,7 +5,7 @@ description: >
     so that you can work with us. We can't wait to see what you do here!
 last_update:
     author: Carlos Valdez
-    date: 1709933926503
+    date: 1710866871423
 ---
 # Welcome to the Ojos Project
 
@@ -28,6 +28,13 @@ more.
 
 ## Add meetings to your calendar
 
+:::warning
+
+This was the schedule for Winter 2024. This has not yet been updated for Spring
+2024.
+
+:::
+
 On Mondays at 10am, we have a meeting with our Research Advisor,
 [Dr. Mark S. Baldwin](https://www.informatics.uci.edu/explore/faculty-profiles/mark-baldwin/).
 People are are enrolled **must**
@@ -38,10 +45,10 @@ heading.
 
 We also have other meetings, but that depends on the team you are in.
 
-| Team          | Meeting          | Description                 |
-| ------------- | ---------------- | --------------------------- |
-| URL Team      | Tu/Th @ 10am-1pm | Work on the project         |
-| Research Team | Su @ 8pm         | Discuss the week's research |
+| Team          | Meeting          | Location                                                                        | Description                 |
+| ------------- | ---------------- | ------------------------------------------------------------------------------- | --------------------------- |
+| URL Team      | Tu/Th @ 10am-1pm | DBH 5089                                                                        | Work on the project         |
+| Research Team | Su @ 8pm         | [Discord](https://discord.com/channels/1204178277720268901/1207755977168785531) | Discuss the week's research |
 
 ## Join our Google Drive
 
