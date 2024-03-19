@@ -37,6 +37,13 @@ Here's a short table explaining how we will use `git` branching:
 | `dev`            | This is the branch that Ojos developers add their changes to and test. **Main working branch.** | `main`              |
 | Any other branch | A feature branch. If you can't push into `dev` or are using a forked branch, use this.          | `dev`               |
 
+A general guideline is:
+
+- Nobody pushes to `main`, it can only be merged into
+- Push to `dev` only if it's a quick feature/fix
+- Push to your custom branch if it's something that will take a while to finish
+  (i.e., won't be finished in a single sitting) and then merge it into `dev`
+
 <!-- ? This uses Mermaid syntax. Learn more here: -->
 <!-- ? https://mermaid.js.org/syntax/gitgraph -->
 
