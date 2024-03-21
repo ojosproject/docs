@@ -60,30 +60,12 @@ const config: Config = {
       '@docusaurus/plugin-client-redirects',
       {
         redirects: [
-          {
-            to: '/teams/developers/webdev/adding-to-news/',
-            from: '/teams/url/adding-to-news/'
-          },
-          {
-            to: 'teams/developers/guides/gitlab-ide/',
-            from: '/teams/url/gitlab-ide/'
-          },
-          {
-            to: '/teams/developers/guides/installing-wsl/',
-            from: '/teams/url/installing-wsl/'
-          },
-          {
-            to: '/teams/developers/guides/decrypt-interviews/',
-            from: '/teams/url/decrypt-interviews/'
-          },
-          {
-            to: '/teams/developers/guides/ssh-setup/',
-            from: '/teams/url/ssh-setup/'
-          },
-          {
-            to: '/teams/developers/webdev/updating-docs/',
-            from: '/teams/url/updating-docs/'
-          }
+          {to: '/teams/developers/webdev/adding-to-news/', from: '/teams/url/adding-to-news/'},
+          {to: 'teams/developers/guides/gitlab-ide/', from: '/teams/url/gitlab-ide/'},
+          {to: '/teams/developers/guides/installing-wsl/', from: '/teams/url/installing-wsl/'},
+          {to: '/teams/developers/guides/decrypt-interviews/', from: '/teams/url/decrypt-interviews/'},
+          {to: '/teams/developers/guides/ssh-setup/', from: '/teams/url/ssh-setup/'},
+          {to: '/teams/developers/webdev/updating-docs/', from: '/teams/url/updating-docs/'}
         ]
       }
     ]
