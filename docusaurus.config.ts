@@ -49,6 +49,45 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+  plugins: [
+    // This plugin helps us fight against link rot.
+    // If we move documentation around, please make sure to add the old link
+    // and new link  changes here.
+    //
+    // More information on link rot here:
+    // https://en.wikipedia.org/wiki/Link_rot
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            to: '/teams/developers/webdev/adding-to-news/',
+            from: '/teams/url/adding-to-news/'
+          },
+          {
+            to: 'teams/developers/guides/gitlab-ide/',
+            from: '/teams/url/gitlab-ide/'
+          },
+          {
+            to: '/teams/developers/guides/installing-wsl/',
+            from: '/teams/url/installing-wsl/'
+          },
+          {
+            to: '/teams/developers/guides/decrypt-interviews/',
+            from: '/teams/url/decrypt-interviews/'
+          },
+          {
+            to: '/teams/developers/guides/ssh-setup/',
+            from: '/teams/url/ssh-setup/'
+          },
+          {
+            to: '/teams/developers/webdev/updating-docs/',
+            from: '/teams/url/updating-docs/'
+          }
+        ]
+      }
+    ]
+  ],
 
   themeConfig: {
     // Replace with your project's social card
