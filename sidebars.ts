@@ -10,14 +10,19 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 const sidebars: SidebarsConfig = {
   teamSidebar: {
     'Teams': [
-      'teams/url/README',
+      'teams/developers/README',
+      'teams/engineering/README',
       'teams/research/README'
     ],
     'Policies': [
       'policies/git',
-      'policies/image'
+      'policies/image',
+      'policies/team-docs'
     ]
   },
+
+  teamEngineering: {},
+  teamDevelopers: {},
 
   urlTeamSidebar: {
     'General': [
@@ -40,7 +45,7 @@ const sidebars: SidebarsConfig = {
   
   ,
 
-  researchTeamSidebar: {
+  teamResearch: {
     'General': [
       'teams/research/git-credit',
       'teams/research/chalubot'
