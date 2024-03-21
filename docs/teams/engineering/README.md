@@ -15,6 +15,7 @@ This document is still being written.
 
 <!-- TODO: Write out the responsibilities of the team. -->
 <!-- TODO: Write out the tools you will be using. -->
+<!-- TODO: Create a `getting-started.md` file for newcomers to the team. -->
 <!-- TODO: Change the `author` and `date` values above. -->
 
 <!-- ! Please add any new files or folders you want to add under the -->
