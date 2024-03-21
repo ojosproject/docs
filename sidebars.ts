@@ -8,15 +8,20 @@
 import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 
 const sidebars: SidebarsConfig = {
-  teamSidebar: {
+  default: {
     'Teams': [
       'teams/developers/README',
       'teams/engineering/README',
       'teams/research/README'
     ],
+    'Requirements': [
+      'requirements/README',
+      'requirements/interviews',
+    ],
     'Policies': [
       'policies/git',
       'policies/image',
+      'policies/inf199-acknowledgement',
       'policies/team-docs'
     ]
   },
@@ -34,20 +39,6 @@ const sidebars: SidebarsConfig = {
       'teams/developers/webdev/updating-docs'
     ]
   },
-
-  urlTeamSidebar: {
-    'General': [
-      'teams/url/inf199-acknowledgement',
-      'teams/url/raspberry-pi',
-    ],
-    'Requirements': [
-      'teams/url/requirements/README',
-      'teams/url/requirements/interviews',
-    ]
-  }
-  
-  ,
-
   teamResearch: {
     'General': [
       'teams/research/git-credit',
@@ -60,7 +51,7 @@ const sidebars: SidebarsConfig = {
       'teams/research/notes/3',
       'teams/research/notes/5'
     ]
-  }
+  },
 };
 
 export default sidebars;

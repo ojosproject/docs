@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: urlTeamSidebar
+displayed_sidebar: default
 description: >
     This document will go over some important factors of the Raspberry Pi that
     may be useful to us.

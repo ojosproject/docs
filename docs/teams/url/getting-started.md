@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: urlTeamSidebar
+displayed_sidebar: default
 last_update:
     author: Carlos Valdez
     date: 1709933926503

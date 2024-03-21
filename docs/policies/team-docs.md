@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: teamSidebar
+displayed_sidebar: default
 description: >
     If you're just learning about how to add to the Team Docs, please go ahead
     and read this document. It will help you go over how to add to the docs,

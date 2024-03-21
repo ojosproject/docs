@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: urlTeamSidebar
+displayed_sidebar: default
 description: >
     The URL team at the Ojos Project is in charge of building the device. There are
     many definitions to the world "building", but eventually this team will be split

@@ -1,6 +1,6 @@
 ---
 slug: /
-displayed_sidebar: teamSidebar
+displayed_sidebar: default
 description: >
     Welcome to the Ojos Project documentation! This is a collection of Markdown
     files organized to help you get a better understanding of us as a team and

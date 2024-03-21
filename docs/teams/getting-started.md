@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: teamSidebar
+displayed_sidebar: default
 description: >
     Welcome to the Ojos Project! This document is here to help you get set up
     so that you can work with us. We can't wait to see what you do here!
