@@ -34,7 +34,7 @@ Keeping things documented is essential and should not be underestimated.
 ## How do I update the document?
 
 The easiest way to do this is by using the GitLab IDE. [We have a guide for how
-to use it](/teams/url/gitlab-ide/).
+to use it](/teams/developers/guides/gitlab-ide/).
 
 The important part is to make sure you are switched into the `dev` branch. The
 document goes over that too.

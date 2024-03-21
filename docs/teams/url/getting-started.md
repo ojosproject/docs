@@ -18,7 +18,7 @@ join it.
 ### SSH Setup
 
 To connect to GitLab, you will be required to use SSH. Please read
-[SSH Setup](/teams/url/ssh-setup/) to get started.
+[SSH Setup](/teams/developers/guides/ssh-setup/) to get started.
 
 ## Undergraduate Research Lab
 
@@ -39,7 +39,7 @@ work on Ojos, or you can work on any personal things.
 The URL team will primarily use Unix-like operating systems. This includes
 macOS, Linux, or the Windows Subsystem for Linux. If you don't use macOS or
 Linux, please read
-[Installing the Windows Subsystem for Linux](/teams/url/installing-wsl/).
+[Installing the Windows Subsystem for Linux](/teams/developers/guides/installing-wsl/).
 
 ## GPG & Encryption Keys
 
@@ -50,7 +50,7 @@ encryption keys.
 
 You must also install `gpg`. The install process for that, as well as
 instructions for decrypting the interviews, is here:
-[Decrypting the Interviews](/teams/url/decrypt-interviews/)
+[Decrypting the Interviews](/teams/developers/guides/decrypt-interviews/)
 
 ## Admin Checklist
 

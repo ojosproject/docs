@@ -47,9 +47,9 @@ the tools we use are:
 |Tool|Setup|Reason|
 |---|---|---|
 |macOS or Linux|N/A|Ensuring we can use the same bash scripts.|
-|Windows Subsystem for Linux|[Installing the Windows Subsystem for Linux](/teams/url/installing-wsl/)|Ensuring Windows users can use the same bash scripts without fully transitioning to Linux.|
-|GPG|[Decrypting the Interviews](/teams/url/decrypt-interviews/)|We use GPG to encrypt/decrypt interviews.|
-|SSH|[SSH Setup](/teams/url/ssh-setup/)|We use SSH to communicate with GitLab.|
+|Windows Subsystem for Linux|[Installing the Windows Subsystem for Linux](/teams/developers/guides/installing-wsl/)|Ensuring Windows users can use the same bash scripts without fully transitioning to Linux.|
+|GPG|[Decrypting the Interviews](/teams/developers/guides/decrypt-interviews/)|We use GPG to encrypt/decrypt interviews.|
+|SSH|[SSH Setup](/teams/developers/guides/ssh-setup/)|We use SSH to communicate with GitLab.|
 
 Custom bash commands
 --------------------
