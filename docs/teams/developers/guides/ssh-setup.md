@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: urlTeamSidebar
+displayed_sidebar: teamDevelopers
 description: >
     This will help you get through the SSH setup.
 last_update:
