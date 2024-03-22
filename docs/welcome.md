@@ -17,10 +17,11 @@ Welcome to the Ojos Project documentation! This is a collection of Markdown
 files organized to help you get a better understanding of us as a team and our
 work.
 
-The Ojos Project currently has two teams:
+The Ojos Project currently has three teams:
 
+- [Developers Team](/teams/developers/)
+- [Engineering Team](/teams/engineering/)
 - [Research Team](/teams/research/)
-- [URL Team](/teams/url/)
 
 ## What do these docs have?
 
