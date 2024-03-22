@@ -29,7 +29,7 @@ Keeping things documented is essential and should not be underestimated.
 | ----------- | --------------------- | ------------- |
 | Developers  | `/teams/developers/`  | Carlos Valdez |
 | Engineering | `/teams/engineering/` | Joseph Sweatt |
-| Research    | `teams/research`      | N/A           |
+| Research    | `/teams/research/`      | N/A           |
 
 ## How do I update the document?
 
@@ -38,6 +38,14 @@ to use it](/teams/developers/guides/gitlab-ide/).
 
 The important part is to make sure you are switched into the `dev` branch. The
 document goes over that too.
+
+## Absolute Minimums
+
+At the very least, every team must include two documents:
+
+1. A `README.md` document
+2. A `getting-started.md` document, which explains how to get set up for your
+   team.
 
 ## Resources
 
