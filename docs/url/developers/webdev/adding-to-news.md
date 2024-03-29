@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: teamDevelopers
+displayed_sidebar: groupUrlTeamDevelopers
 description: >
     Our blog is located at `ojosproject.org/news/`. Updating the website for the
     blog is kind of complicated, so I'm going to outline it here.

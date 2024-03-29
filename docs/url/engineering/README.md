@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: teamEngineering
+displayed_sidebar: groupUrlTeamEngineering
 description: >
     The Engineering team of the Ojos Project is in charge of physically building
     the device. They interact with the Raspberry Pi and potentially contribute

@@ -9,14 +9,8 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 
 const sidebars: SidebarsConfig = {
   default: {
-    'Teams': [
-      'teams/developers/README',
-      'teams/engineering/README',
-      'teams/research/README'
-    ],
-    'Requirements': [
-      'requirements/README',
-      'requirements/interviews',
+    'Groups': [
+      'url/README'
     ],
     'Policies': [
       'policies/git',
@@ -26,30 +20,42 @@ const sidebars: SidebarsConfig = {
     ]
   },
 
-  teamEngineering: {},
-  teamDevelopers: {
-    'Guides': [
-      'teams/developers/guides/decrypt-interviews',
-      'teams/developers/guides/gitlab-ide',
-      'teams/developers/guides/installing-wsl',
-      'teams/developers/guides/ssh-setup',
+  groupUrl: {
+    'Teams': [
+      'url/developers/README',
+      'url/engineering/README',
+      'url/research/README'
     ],
-    'WebDev': [
-      'teams/developers/webdev/adding-to-news',
-      'teams/developers/webdev/updating-docs'
+    'Requirements': [
+      'url/requirements/README',
+      'url/requirements/interviews',
     ]
   },
-  teamResearch: {
+
+  groupUrlTeamEngineering: {},
+  groupUrlTeamDevelopers: {
+    'Guides': [
+      'url/developers/guides/decrypt-interviews',
+      'url/developers/guides/gitlab-ide',
+      'url/developers/guides/installing-wsl',
+      'url/developers/guides/ssh-setup',
+    ],
+    'WebDev': [
+      'url/developers/webdev/adding-to-news',
+      'url/developers/webdev/updating-docs'
+    ]
+  },
+  groupUrlTeamResearch: {
     'General': [
-      'teams/research/git-credit',
-      'teams/research/chalubot'
+      'url/research/git-credit',
+      'url/research/chalubot'
     ],
     'Notes': [
-      'teams/research/notes/0',
-      'teams/research/notes/1',
-      'teams/research/notes/2',
-      'teams/research/notes/3',
-      'teams/research/notes/5'
+      'url/research/notes/0',
+      'url/research/notes/1',
+      'url/research/notes/2',
+      'url/research/notes/3',
+      'url/research/notes/5'
     ]
   },
 };

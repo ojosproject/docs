@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: default
+displayed_sidebar: groupUrl
 description: >
     Welcome to the Ojos Project! This document is here to help you get set up
     so that you can work with us. We can't wait to see what you do here!
@@ -107,9 +107,9 @@ Benefits include...
 There may be more instructions depending on the team you're in. Read the
 instructions for the team you are in:
 
-- [Developers team](/teams/developers/getting-started/)
-- [Engineering team](/teams/engineering/getting-started/)
-- [Research team](/teams/research/getting-started/)
+- [Developers team](/url/developers/getting-started/)
+- [Engineering team](/url/engineering/getting-started/)
+- [Research team](/url/research/getting-started/)
 
 ## Admin Checklist
 

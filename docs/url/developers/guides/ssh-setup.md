@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: teamDevelopers
+displayed_sidebar: groupUrlTeamDevelopers
 description: >
     This will help you get through the SSH setup.
 last_update:
@@ -15,7 +15,7 @@ This will help you get through the SSH setup.
 
 If you are on Windows, you need to install the Windows Subsystem for Linux.
 Please go
-[read and do that first](/teams/developers/guides/installing-wsl/).
+[read and do that first](/url/developers/guides/installing-wsl/).
 
 ## Using the script
 

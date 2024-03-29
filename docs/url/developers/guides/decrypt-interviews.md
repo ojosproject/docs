@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: teamDevelopers
+displayed_sidebar: groupUrlTeamDevelopers
 description: >
     This document will go into how to decrypt the interviews we conducted for
     the Ojos Project. This will use `gpg`.

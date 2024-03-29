@@ -54,14 +54,14 @@ const config: Config = {
       '@docusaurus/plugin-client-redirects',
       {
         redirects: [
-          {to: '/teams/developers/webdev/adding-to-news/', from: '/teams/url/adding-to-news/'},
-          {to: 'teams/developers/guides/gitlab-ide/', from: '/teams/url/gitlab-ide/'},
-          {to: '/teams/developers/guides/installing-wsl/', from: '/teams/url/installing-wsl/'},
-          {to: '/teams/developers/guides/decrypt-interviews/', from: '/teams/url/decrypt-interviews/'},
-          {to: '/teams/developers/guides/ssh-setup/', from: '/teams/url/ssh-setup/'},
-          {to: '/teams/developers/webdev/updating-docs/', from: '/teams/url/updating-docs/'},
-          {to: '/requirements/', from: '/teams/url/requirements/README'},
-          {to: '/requirements/interviews', from: '/teams/url/requirements/interviews'},
+          {to: '/url/developers/webdev/adding-to-news/', from: '/teams/url/adding-to-news/'},
+          {to: '/url/developers/guides/gitlab-ide/', from: '/teams/url/gitlab-ide/'},
+          {to: '/url/developers/guides/installing-wsl/', from: '/teams/url/installing-wsl/'},
+          {to: '/url/developers/guides/decrypt-interviews/', from: '/teams/url/decrypt-interviews/'},
+          {to: '/url/developers/guides/ssh-setup/', from: '/teams/url/ssh-setup/'},
+          {to: '/url/developers/webdev/updating-docs/', from: '/teams/url/updating-docs/'},
+          {to: '/url/requirements/', from: '/teams/url/requirements/README'},
+          {to: '/url/requirements/interviews', from: '/teams/url/requirements/interviews'},
           {to: '/policies/inf199-acknowledgement', from: '/teams/url/inf199-acknowledgement'}
         ]
       }
@@ -81,7 +81,7 @@ const config: Config = {
         {
           type: 'doc',
           position: 'left',
-          docId: 'teams/glossary',
+          docId: 'url/glossary',
           label: 'Glossary'
         }
       ],

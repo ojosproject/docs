@@ -25,16 +25,16 @@ Keeping things documented is essential and should not be underestimated.
 
 ## Where is my team doc?
 
-| Team        | Path                  | Updater       |
-| ----------- | --------------------- | ------------- |
-| Developers  | `/teams/developers/`  | Carlos Valdez |
-| Engineering | `/teams/engineering/` | Joseph Sweatt |
-| Research    | `/teams/research/`      | N/A           |
+| Team        | Path                | Updater       |
+| ----------- | ------------------- | ------------- |
+| Developers  | `/url/developers/`  | Carlos Valdez |
+| Engineering | `/url/engineering/` | Joseph Sweatt |
+| Research    | `/url/research/`    | N/A           |
 
 ## How do I update the document?
 
 The easiest way to do this is by using the GitLab IDE. [We have a guide for how
-to use it](/teams/developers/guides/gitlab-ide/).
+to use it](/url/developers/guides/gitlab-ide/).
 
 The important part is to make sure you are switched into the `dev` branch. The
 document goes over that too.
@@ -56,7 +56,7 @@ referencing Markdown.](https://quickref.me/markdown)
 
 ```markdown
 ---
-displayed_sidebar: teamDevelopers OR teamEngineering OR teamResearch
+displayed_sidebar: groupUrlTeamDevelopers OR groupUrlTeamEngineering OR groupUrlTeamResearch
 description: >
     ENTER A DESCRIPTION ABOUT THIS DOCUMENT HERE.
 last_update:

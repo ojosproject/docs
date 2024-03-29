@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: teamDevelopers
+displayed_sidebar: groupUrlTeamDevelopers
 last_update:
     author: Carlos Valdez
     date: March 21, 2024
@@ -18,14 +18,14 @@ join it.
 ### SSH Setup
 
 To connect to GitLab, you will be required to use SSH. Please read
-[SSH Setup](/teams/developers/guides/ssh-setup/) to get started.
+[SSH Setup](/url/developers/guides/ssh-setup/) to get started.
 
 ## Unix-like Environments
 
 The Developers team will primarily use Unix-like operating systems. This includes
 macOS, Linux, or the Windows Subsystem for Linux. If you don't use macOS or
 Linux, please read
-[Installing the Windows Subsystem for Linux](/teams/developers/guides/installing-wsl/).
+[Installing the Windows Subsystem for Linux](/url/developers/guides/installing-wsl/).
 
 ## GPG & Encryption Keys
 
@@ -36,7 +36,7 @@ encryption keys.
 
 You must also install `gpg`. The install process for that, as well as
 instructions for decrypting the interviews, is here:
-[Decrypting the Interviews](/teams/developers/guides/decrypt-interviews/)
+[Decrypting the Interviews](/url/developers/guides/decrypt-interviews/)
 
 ## Admin Checklist
 

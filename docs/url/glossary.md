@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: default
+displayed_sidebar: groupUrl
 description: >
     This is a glossary of the terms we use. Please use these consistently.
 last_update:

@@ -9,19 +9,13 @@ last_update:
     # ! As long as Date.parse() can figure it out, it's fine
     # ! Though, I encourage using Unix timestamps.
     author: Carlos Valdez
-    date: February 23, 2024 12:11:23 PM PST
+    date: March 28 2024
 ---
 # Welcome
 
 Welcome to the Ojos Project documentation! This is a collection of Markdown
 files organized to help you get a better understanding of us as a team and our
 work.
-
-The Ojos Project currently has three teams:
-
-- [Developers Team](/teams/developers/)
-- [Engineering Team](/teams/engineering/)
-- [Research Team](/teams/research/)
 
 ## What do these docs have?
 

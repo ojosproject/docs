@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: teamResearch
+displayed_sidebar: groupUrlTeamResearch
 description: >
     Welcome to the Ojos Project's Research team! We're excited to have you!
     These are instructions for people who are just joining the team.
@@ -14,11 +14,11 @@ are instructions for people who are just joining the team.
 
 ## Read up on ChaluBot and the Git Credit proposal
 
-[ChaluBot](/teams/research/chalubot/) is the Discord bot we use to send in our
+[ChaluBot](/url/research/chalubot/) is the Discord bot we use to send in our
 research. Learning how to use it will be very helpful.
 
 Also, we give you git credit for your contributions. Read about that in
-[Credit via Git](/teams/research/git-credit/).
+[Credit via Git](/url/research/git-credit/).
 
 ## Admin Checklist
 
