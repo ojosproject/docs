@@ -10,6 +10,7 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 const sidebars: SidebarsConfig = {
   default: {
     'Groups': [
+      'breathe/README',
       'url/README'
     ],
     'Policies': [
@@ -31,6 +32,10 @@ const sidebars: SidebarsConfig = {
       'url/requirements/interviews',
     ]
   },
+
+  groupBreathe: [
+    'breathe/proposal'
+  ],
 
   groupUrlTeamEngineering: {},
   groupUrlTeamDevelopers: {
