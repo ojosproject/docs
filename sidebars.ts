@@ -37,6 +37,10 @@ const sidebars: SidebarsConfig = {
     'breathe/proposal'
   ],
 
+  groupFederate: [
+    'social/proposal'
+  ],
+
   groupUrlTeamEngineering: {},
   groupUrlTeamDevelopers: {
     'Guides': [
