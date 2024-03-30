@@ -17,6 +17,8 @@ const sidebars: SidebarsConfig = {
       'policies/git',
       'policies/image',
       'policies/inf199-acknowledgement',
+      'policies/paperwork',
+      'policies/structure',
       'policies/team-docs'
     ]
   },
