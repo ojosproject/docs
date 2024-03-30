@@ -33,3 +33,11 @@ gets left behind. We should all have very similar wording and make sure we're
 telling the institutions we're submitting applications to exactly what we're
 building. We cannot have different documents saying different things, and I
 have the final say as to what's being built.
+
+:::warning
+
+Violating this policy may result in you being dropped from the Ojos Project,
+depending on how severe the violation is. The severity is determined by the
+Group Lead.
+
+:::
