@@ -13,18 +13,12 @@ const config: Config = {
 
   trailingSlash: true,
 
-  // Set the production url of your site here
   url: 'https://docs.ojosproject.org/',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -49,9 +43,32 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+  plugins: [
+    // This plugin helps us fight against link rot.
+    // If we move documentation around, please make sure to add the old link
+    // and new link  changes here.
+    //
+    // More information on link rot here:
+    // https://en.wikipedia.org/wiki/Link_rot
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {to: '/url/developers/webdev/adding-to-news/', from: '/teams/url/adding-to-news/'},
+          {to: '/url/developers/guides/gitlab-ide/', from: '/teams/url/gitlab-ide/'},
+          {to: '/url/developers/guides/installing-wsl/', from: '/teams/url/installing-wsl/'},
+          {to: '/url/developers/guides/decrypt-interviews/', from: '/teams/url/decrypt-interviews/'},
+          {to: '/url/developers/guides/ssh-setup/', from: '/teams/url/ssh-setup/'},
+          {to: '/url/developers/webdev/updating-docs/', from: '/teams/url/updating-docs/'},
+          {to: '/url/requirements/', from: '/teams/url/requirements/README'},
+          {to: '/url/requirements/interviews', from: '/teams/url/requirements/interviews'},
+          {to: '/policies/inf199-acknowledgement', from: '/teams/url/inf199-acknowledgement'}
+        ]
+      }
+    ]
+  ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/header.png',
     announcementBar: {
       content: 'The Ojos Project will be inactive until April 1, 2024. Have a great Spring Break!',
@@ -69,7 +86,7 @@ const config: Config = {
         {
           type: 'doc',
           position: 'left',
-          docId: 'teams/glossary',
+          docId: 'url/glossary',
           label: 'Glossary'
         }
       ],

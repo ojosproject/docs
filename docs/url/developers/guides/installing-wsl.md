@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: urlTeamSidebar
+displayed_sidebar: groupUrlTeamDevelopers
 description: >
     These are the instructions for installing the Windows Subsystem for Linux.
     The Ojos Project will be writing scripts primarily for Unix-like operating

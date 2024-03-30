@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: urlTeamSidebar
+displayed_sidebar: groupUrlTeamDevelopers
 description: Want to edit our GitLab code without having to fight with SSH? Learn how to use the GitLab IDE tool!
 last_update:
     date: 1709672472960

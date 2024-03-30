@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: researchTeamSidebar
+displayed_sidebar: groupUrlTeamResearch
 description: >
     The Research Team at the Ojos Project is in charge of reading research papers
     that may help with the development of our project. The Research Team's

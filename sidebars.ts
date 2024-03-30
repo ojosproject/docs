@@ -8,51 +8,61 @@
 import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 
 const sidebars: SidebarsConfig = {
-  teamSidebar: {
-    'Teams': [
-      'teams/url/README',
-      'teams/research/README'
+  default: {
+    'Groups': [
+      'breathe/README',
+      'url/README'
     ],
     'Policies': [
       'policies/git',
-      'policies/image'
+      'policies/image',
+      'policies/inf199-acknowledgement',
+      'policies/team-docs'
     ]
   },
 
-  urlTeamSidebar: {
-    'General': [
-      'teams/url/adding-to-news',
-      'teams/url/gitlab-ide',
-      'teams/url/inf199-acknowledgement',
-      'teams/url/raspberry-pi',
-      'teams/url/updating-docs',
-    ],
-    'Setup Guides': [
-      'teams/url/decrypt-interviews',
-      'teams/url/installing-wsl',
-      'teams/url/ssh-setup',
+  groupUrl: {
+    'Teams': [
+      'url/developers/README',
+      'url/engineering/README',
+      'url/research/README'
     ],
     'Requirements': [
-      'teams/url/requirements/README',
-      'teams/url/requirements/interviews',
+      'url/requirements/README',
+      'url/requirements/interviews',
     ]
-  }
-  
-  ,
+  },
 
-  researchTeamSidebar: {
+  groupBreathe: [
+    'breathe/proposal'
+  ],
+
+  groupUrlTeamEngineering: {},
+  groupUrlTeamDevelopers: {
+    'Guides': [
+      'url/developers/guides/decrypt-interviews',
+      'url/developers/guides/gitlab-ide',
+      'url/developers/guides/installing-wsl',
+      'url/developers/guides/ssh-setup',
+    ],
+    'WebDev': [
+      'url/developers/webdev/adding-to-news',
+      'url/developers/webdev/updating-docs'
+    ]
+  },
+  groupUrlTeamResearch: {
     'General': [
-      'teams/research/git-credit',
-      'teams/research/chalubot'
+      'url/research/git-credit',
+      'url/research/chalubot'
     ],
     'Notes': [
-      'teams/research/notes/0',
-      'teams/research/notes/1',
-      'teams/research/notes/2',
-      'teams/research/notes/3',
-      'teams/research/notes/5'
+      'url/research/notes/0',
+      'url/research/notes/1',
+      'url/research/notes/2',
+      'url/research/notes/3',
+      'url/research/notes/5'
     ]
-  }
+  },
 };
 
 export default sidebars;

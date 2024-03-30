@@ -1,6 +1,6 @@
 ---
 slug: /
-displayed_sidebar: teamSidebar
+displayed_sidebar: default
 description: >
     Welcome to the Ojos Project documentation! This is a collection of Markdown
     files organized to help you get a better understanding of us as a team and
@@ -9,18 +9,13 @@ last_update:
     # ! As long as Date.parse() can figure it out, it's fine
     # ! Though, I encourage using Unix timestamps.
     author: Carlos Valdez
-    date: February 23, 2024 12:11:23 PM PST
+    date: March 28 2024
 ---
 # Welcome
 
 Welcome to the Ojos Project documentation! This is a collection of Markdown
 files organized to help you get a better understanding of us as a team and our
 work.
-
-The Ojos Project currently has two teams:
-
-- [Research Team](/teams/research/)
-- [URL Team](/teams/url/)
 
 ## What do these docs have?
 

@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: urlTeamSidebar
+displayed_sidebar: groupUrl
 description: >
     This document will serve as the Ojos Project's interview protocol. It will
     help us ensure we provide clear instructions to team members to ensure we

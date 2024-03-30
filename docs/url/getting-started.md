@@ -1,11 +1,11 @@
 ---
-displayed_sidebar: teamSidebar
+displayed_sidebar: groupUrl
 description: >
     Welcome to the Ojos Project! This document is here to help you get set up
     so that you can work with us. We can't wait to see what you do here!
 last_update:
     author: Carlos Valdez
-    date: 1710866871423
+    date: March 21, 2024
 ---
 # Welcome to the Ojos Project
 
@@ -15,7 +15,7 @@ do to get started. ✨
 ## Figure out your commitment
 
 Some students in this research project are enrolled in IN4MATX 199 at UCI. Read
-the [IN4MATX 199 Acknowledgement](/teams/url/inf199-acknowledgement) to learn
+the [IN4MATX 199 Acknowledgement](/policies/inf199-acknowledgement) to learn
 more.
 
 **If you are enrolled in IN4MATX 199, you are required to participate for a
@@ -105,9 +105,11 @@ Benefits include...
 ## What's next?
 
 There may be more instructions depending on the team you're in. Read the
-[Getting started in the URL team](/teams/url/getting-started/) or the
-[Getting started in the Research Team](/teams/research/getting-started/) for
-more.
+instructions for the team you are in:
+
+- [Developers team](/url/developers/getting-started/)
+- [Engineering team](/url/engineering/getting-started/)
+- [Research team](/url/research/getting-started/)
 
 ## Admin Checklist
 
