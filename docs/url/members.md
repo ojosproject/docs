@@ -23,4 +23,4 @@ These are the people who have participated in the URL Group at the Ojos Project.
 
 | Photo | Name             | Email                          | Website                                        | Contributions |
 | ----- | ---------------- | ------------------------------ | ---------------------------------------------- | ------------- |
-| ![Isabella's Gravatar](https://gravatar.com/avatar/e4b66681a801324cb8b596783892b45e275d0c182789cb22a2af0c14ff73f0f8?s=150&d=mp) | Isabella Gronich | igronich@students.imperial.edu | [Email](mailto:igronich@students.imperial.edu) |               |
+| ![Isabella's Gravatar](https://gravatar.com/avatar/e4b66681a801324cb8b596783892b45e275d0c182789cb22a2af0c14ff73f0f8?s=150&d=mp) | Isabella Gronich | igronich@students.imperial.edu | [Email](mailto:igronich@students.imperial.edu) | Researched various academic papers for the Ojos Project. |
