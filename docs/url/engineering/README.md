@@ -6,7 +6,7 @@ description: >
     They will contribute to the code process if needed.
 last_update:
     author: Joseph Sweatt
-    date: April 2nd, 2024
+    date: April 2, 2024
 ---
 
 Engineering Team

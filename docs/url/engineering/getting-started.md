@@ -4,7 +4,7 @@ description: >
     Get started with the Engineering team at the Ojos Project!
 last_update:
     author: Joseph Sweatt
-    date: April 2nd, 2024
+    date: April 2, 2024
 ---
 # Getting Started in the Engineering Team
 
