@@ -6,10 +6,8 @@ description: >
     files organized to help you get a better understanding of us as a team and
     our work.
 last_update:
-    # ! As long as Date.parse() can figure it out, it's fine
-    # ! Though, I encourage using Unix timestamps.
     author: Carlos Valdez
-    date: March 28 2024
+    date: April 2 2024
 ---
 # Welcome
 
