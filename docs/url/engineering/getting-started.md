@@ -13,10 +13,10 @@ will be used throughout the kiosk. The link takes you to the download link to
 install on your computer operating system. We can run it as a virtual machine to
 iterate the code.
 
-[Solidworks](https://laptops.eng.uci.edu/engineering-software/solidworks-student-engineering-kit-for-hssoe-students)
+[SolidWorks](https://laptops.eng.uci.edu/engineering-software/solidworks-student-engineering-kit-for-hssoe-students)
 is a vital 3D software we will use to virtual design our kiosk. This link will
 take you to download the software using UCI student engineering kit.
-Addiitonally, fo memeber who may not have a powerful enough laptop or are not
+Additionally, fo member who may not have a powerful enough laptop or are not
 UCI student can use [Onshape](https://www.onshape.com/en/sign-up) which is a web
 browser CAD software that is free for students.
 
