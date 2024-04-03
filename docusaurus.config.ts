@@ -70,11 +70,6 @@ const config: Config = {
 
   themeConfig: {
     image: 'img/header.png',
-    announcementBar: {
-      content: 'The Ojos Project will be inactive until April 1, 2024. Have a great Spring Break!',
-      backgroundColor: 'rgb(240, 128, 128)',
-      isCloseable: false
-    },
     navbar: {
       title: 'Docs',
       logo: {
