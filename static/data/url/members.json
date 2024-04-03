@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Carlos Valdez",
+        "email": "cvaldezh@uci.edu",
+        "website": "https://calejvaldez.com",
+        "joined": "October 2023",
+        "avatar": "https://gravatar.com/avatar/41bb2938e02bf5326eb6b82ec02d919ca97cf68b376c4c5769fbba4acc85a190?d=mp",
+        "contributions": [],
+        "active": true
+    },
+    {
+        "name": "Mark S. Baldwin, PhD",
+        "email": "baldwinm@ics.uci.edu",
+        "website": "https://markbaldw.in",
+        "joined": "October 2023",
+        "avatar": "https://gravatar.com/avatar/84ea4715fcf218179a00bd36150884d878b5d4a19fb731b2d09ab0eee7aba509?d=mp",
+        "contributions": [],
+        "active": true
+    },
+    {
+        "name": "Joseph Sweatt",
+        "email": "jsweatt@uci.edu",
+        "website": "https://linkedin.com/in/josephsweattjr/",
+        "joined": "October 2023",
+        "avatar": "https://gravatar.com/avatar/fac497a877e467035b306a201b938608120228662480b08e0477c59b4cfe347a?d=mp",
+        "contributions": [],
+        "active": true
+    },
+    {
+        "name": "Ayush Jain",
+        "email": "ayushj4@uci.edu",
+        "website": "https://ayushdotjain.com",
+        "joined": "January 2024",
+        "avatar": "https://gravatar.com/avatar/e4c598f9826093429edec4c38d6bfb93968a59b512259b07e7d1ffe4ff7bb115?d=mp",
+        "contributions": [],
+        "active": true
+    },
+    {
+        "name": "Isabella Gronich",
+        "email": "igronich@students.imperial.edu",
+        "website": "mailto:igronich@students.imperial.edu",
+        "joined": "February 5 2024",
+        "avatar": "https://gravatar.com/avatar/e4b66681a801324cb8b596783892b45e275d0c182789cb22a2af0c14ff73f0f8?d=mp",
+        "contributions": ["Researched various academic papers for the Ojos Project."],
+        "active": false
+    }
+]
