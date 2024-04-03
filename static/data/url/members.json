@@ -43,5 +43,14 @@
         "avatar": "https://gravatar.com/avatar/e4b66681a801324cb8b596783892b45e275d0c182789cb22a2af0c14ff73f0f8?d=mp",
         "contributions": ["Researched various academic papers for the Ojos Project."],
         "active": false
+    },
+    {
+        "name": "Jackie Sanchez",
+        "email": "jsanchez88@students.imperial.edu",
+        "website": "mailto:jsanchez88@students.imperial.edu",
+        "joined": "February 5 2024",
+        "avatar": "https://gravatar.com/avatar/60445455d0c9497dd7f2da0838c4b355d8686efab439067e79df497fbbbba3a3?d=mp",
+        "contributions": [],
+        "active": false
     }
 ]
