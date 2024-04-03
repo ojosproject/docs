@@ -5,7 +5,7 @@ description: >
     so that you can work with us. We can't wait to see what you do here!
 last_update:
     author: Carlos Valdez
-    date: March 21, 2024
+    date: April 2 2024
 ---
 # Welcome to the Ojos Project
 
@@ -28,27 +28,20 @@ more.
 
 ## Add meetings to your calendar
 
-:::warning
-
-This was the schedule for Winter 2024. This has not yet been updated for Spring
-2024.
-
-:::
-
-On Mondays at 10am, we have a meeting with our Research Advisor,
+On Thursdays at 12pm, we have a meeting with our Research Advisor,
 [Dr. Mark S. Baldwin](https://www.informatics.uci.edu/explore/faculty-profiles/mark-baldwin/).
 People are are enrolled **must**
-attend this meeting. If you are not enrolled, you may join if you'd like!
+attend this meeting.
 
 We discuss our progress and the overall direction of where the project is
 heading.
 
 We also have other meetings, but that depends on the team you are in.
 
-| Team          | Meeting          | Location                                                                        | Description                 |
-| ------------- | ---------------- | ------------------------------------------------------------------------------- | --------------------------- |
-| URL Team      | Tu/Th @ 10am-1pm | DBH 5089                                                                        | Work on the project         |
-| Research Team | Su @ 8pm         | [Discord](https://discord.com/channels/1204178277720268901/1207755977168785531) | Discuss the week's research |
+| Team             | Meeting           | Location | Description         |
+| ---------------- | ----------------- | -------- | ------------------- |
+| Developers Team  | Wed/Th @ 12pm-3pm | DBH 5089 | Work on the project |
+| Engineering Team | Wed/Th @ 12pm-3pm | DBH 5089 | Work on the project |
 
 ## Join our Google Drive
 
@@ -56,11 +49,10 @@ We have an
 [internal Google Drive](https://drive.google.com/drive/folders/1nsghXOEXTWsKTtgMzlCuXMp8iIiq8iBb)
 that hosts some important files we use. It'll be helpful to join that!
 
-## Join our Discord and get the `Team` role
+## Join our Slack workspace
 
-We have a [Discord server](https://discord.gg/SejmYUthEj) that we use to
-communicate with each other. Please join that server and get the `Team`, as well
-as any other roles you may need!
+We have a [Slack workspace](https://ojosproject.slack.com) that we use to
+communicate with each other. Please join!
 
 ## Send us your email
 
@@ -73,6 +65,14 @@ currently approved domains:
 | `@uci.edu`               | [University of California, Irvine](https://uci.edu/)                                |
 | `@ics.uci.edu`           | [UCI Donald Bren School of Information and Computer Sciences](https://ics.uci.edu/) |
 | `@students.imperial.edu` | [Imperial Valley College](https://imperial.edu/)                                    |
+
+:::note
+
+Don't see you domain? Let Carlos know. It just means we haven't had students
+with that domain before. Remember, it has to be from an educational institution.
+That is, it must end with `.edu`.
+
+:::
 
 ## Set up your Gravatar
 
@@ -109,7 +109,6 @@ instructions for the team you are in:
 
 - [Developers team](/url/developers/getting-started/)
 - [Engineering team](/url/engineering/getting-started/)
-- [Research team](/url/research/getting-started/)
 
 ## Admin Checklist
 
@@ -117,7 +116,7 @@ This checklist is here for the people helping you get set up.
 
 - [ ] Send them necessary calendar invites
 - [ ] Give access to the Google Drive
-- [ ] Give access to Discord, provide them any roles they need
+- [ ] Give access to Slack
 - [ ] Ensure we have their email
 - [ ] Ensure their Gravatar is set
 - [ ] Check if they automatically are a recognized member

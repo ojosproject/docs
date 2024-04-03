@@ -28,8 +28,8 @@ If you would like to contribute, you are more than welcomed to. Go ahead and
 read the instructions in the
 [GitLab repository](https://gitlab.com/ojosproject/docs) to get started.
 
-Another way to help is by submitting issues. By clicking `Edit this button`, it
-starts writing an issue for you.
+For easier access, you can click `Edit this button` to immediately open the
+page using the [GitLab IDE](/url/developers/guides/gitlab-ide).
 
 ## Need help?
 
