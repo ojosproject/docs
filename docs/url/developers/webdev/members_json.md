@@ -30,15 +30,15 @@ The structure of the JSON is:
 ```json
 [
     {
-        "name": "Carlos Valdez",
-        "email": "cvaldezh@uci.edu",
-        "roles": ["Group Lead", "Developers Lead"],
-        "institution": "University of California, Irvine",
-        "website": "https://calejvaldez.com",
-        "joined": "October 2023",
-        "avatar": "https://gravatar.com/avatar/41bb2938e02bf5326eb6b82ec02d919ca97cf68b376c4c5769fbba4acc85a190?d=mp",
+        "name": "",
+        "email": "",
+        "roles": [],
+        "institution": "",
+        "website": {"label": "", "value": ""},
+        "joined": "",
+        "avatar": "",
         "contributions": [],
-        "active": true
+        "active": false
     }
 ]
 ```
@@ -53,9 +53,10 @@ Here's a table of keys and their meaning:
 |`email`|Their institution email|
 |`roles`|Their role(s) in the Ojos Project|
 |`institution`|Their associated institution|
-|`website`|A link (`href` or `mailto:`)|
+|`website.label`|The label, usually `Personal Website`, `Email`, etc.|
+|`website.value`|The link to direct people to. `mailto:` for `Email`.|
 |`joined`|Their join month/year|
-|`avatar`|Their Gravatar link, with [default image `mp`](https://docs.gravatar.com/general/images/#default-image)|
+|`avatar`|Their Gravatar link, with [default image `mp`](https://docs.gravatar.com/general/images/#default-image). Use [SHA256 Online Tool](https://emn178.github.io/online-tools/sha256.html)|
 |`contributions`|An array of strings indicating their various contributions|
 |`active`|A boolean indicating if they're still participating or not|
 
