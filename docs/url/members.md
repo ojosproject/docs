@@ -10,6 +10,13 @@ last_update:
 
 These are the people who have participated in the URL Group at the Ojos Project.
 
+:::note
+
+This page is going through restructuring and this information may be outdated.
+The last update to this document was on March 31, 2024.
+
+:::
+
 ## Current Members
 
 | Photo | Name                 |       Joined | Email                | Website                                                 |
