@@ -43,7 +43,9 @@ const sidebars: SidebarsConfig = {
     'social/proposal'
   ],
 
-  groupUrlTeamEngineering: {},
+  groupUrlTeamEngineering: [
+    'url/engineering/getting-started'
+  ],
   groupUrlTeamDevelopers: {
     'Guides': [
       'url/developers/guides/decrypt-interviews',
