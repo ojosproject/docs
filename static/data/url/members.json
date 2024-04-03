@@ -7,7 +7,12 @@
         "website": {"label": "Personal Website", "value": "https://calejvaldez.com/"},
         "joined": "October 2023",
         "avatar": "https://gravatar.com/avatar/41bb2938e02bf5326eb6b82ec02d919ca97cf68b376c4c5769fbba4acc85a190?d=mp",
-        "contributions": [],
+        "contributions": [
+            "Lead the URL Group.",
+            "Developed and maintained software infrastructure.",
+            "Researched various academic papers for the Ojos Project.",
+            "Requirements analysis."
+        ],
         "active": true
     },
     {
@@ -18,7 +23,9 @@
         "website": {"label": "Personal Website", "value": "https://markbaldw.in"},
         "joined": "October 2023",
         "avatar": "https://gravatar.com/avatar/84ea4715fcf218179a00bd36150884d878b5d4a19fb731b2d09ab0eee7aba509?d=mp",
-        "contributions": [],
+        "contributions": [
+            "Advised our research effort."
+        ],
         "active": true
     },
     {
@@ -29,7 +36,11 @@
         "website": {"label": "LinkedIn", "value": "https://linkedin.com/in/josephsweattjr/"},
         "joined": "October 2023",
         "avatar": "https://gravatar.com/avatar/fac497a877e467035b306a201b938608120228662480b08e0477c59b4cfe347a?d=mp",
-        "contributions": [],
+        "contributions": [
+            "Lead a team of engineers.",
+            "Researched various academic papers for the Ojos Project.",
+            "Requirements analysis."
+        ],
         "active": true
     },
     {
@@ -40,7 +51,10 @@
         "website": {"label": "Personal Website", "value": "https://ayushdotjain.com/"},
         "joined": "January 2024",
         "avatar": "https://gravatar.com/avatar/e4c598f9826093429edec4c38d6bfb93968a59b512259b07e7d1ffe4ff7bb115?d=mp",
-        "contributions": [],
+        "contributions": [
+            "Maintained software infrastructure.",
+            "Requirements analysis."
+        ],
         "active": true
     },
     {
