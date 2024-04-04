@@ -81,7 +81,8 @@ Everything else in the Members JSON file is just for information.
 #### Example: Main website
 
 On the main website, it adds members if the `active` key is `true` and if the
-`contributions` array is not empty. This indicates a Recognized Member.
+`contributions` array is not empty. This indicates a
+[Recognized Member](https://docs.ojosproject.org/url/getting-started/#getting-recognized-as-a-member).
 
 It gets the Members JSON file by making a `GET` request to
 `https://docs.ojosproject.org/data/url/members.json`.
