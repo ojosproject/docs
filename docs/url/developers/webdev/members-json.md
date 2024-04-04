@@ -21,11 +21,12 @@ contributed to our project.
 ## The Protocol
 
 The Members JSON Protocol is the method in which we will use the Members JSON
-file.
+file. The file includes information to help promote members and get information
+we may need for the Ojos Project.
 
 ### JSON Structure
 
-The structure of the JSON is:
+The structure of the Members JSON file is:
 
 ```json
 [
@@ -66,3 +67,20 @@ You can
 [view the public JSON file on GitLab](https://gitlab.com/ojosproject/docs/-/blob/main/static/data/url/members.json).
 
 :::
+
+### Using the file
+
+As of April 3, 2024, this file is used in two places:
+
+1. [Main website](https://ojosproject.org#team)
+2. [Members of the Ojos Project website](https://docs.ojosproject.org/url/members/)
+
+On the main website, it adds members if the `active` key is `true` and if the
+`contributions` array is not empty. This indicates a Recognized Member.
+
+On the Docs website, if adds members to the Current Members table if their
+`active` key is `true`. It adds members to the Former members table if their
+`active` is `false` and the `contributions` array is not empty.
+
+The (literal) keys to sorting individuals are `active` and `contributions`.
+Everything else in the Members JSON file is just for information.
