@@ -75,12 +75,28 @@ As of April 3, 2024, this file is used in two places:
 1. [Main website](https://ojosproject.org#team)
 2. [Members of the Ojos Project website](https://docs.ojosproject.org/url/members/)
 
+The (literal) keys to sorting individuals are `active` and `contributions`.
+Everything else in the Members JSON file is just for information.
+
+#### Example: Main website
+
 On the main website, it adds members if the `active` key is `true` and if the
 `contributions` array is not empty. This indicates a Recognized Member.
+
+It gets the Members JSON file by making a `GET` request to
+`https://docs.ojosproject.org/data/url/members.json`.
+
+#### Example: Docs website
 
 On the Docs website, if adds members to the Current Members table if their
 `active` key is `true`. It adds members to the Former members table if their
 `active` is `false` and the `contributions` array is not empty.
 
-The (literal) keys to sorting individuals are `active` and `contributions`.
-Everything else in the Members JSON file is just for information.
+Getting the data on the Docs website is different. Instead of doing a `GET`
+request, you can just import it. It is imported in `/src/components/members.tsx`
+and used to create `CurrentMembers` and `FormerMembers` tables that is then
+imported in `/docs/url/members.mdx`.
+
+If you want to import the Members JSON file in the Docs website, you can just
+add something like
+`import membersJSON from "@site/static/data/url/members.json"` in a JSX file.
