@@ -15,7 +15,7 @@ The purpose of the Docs website is to document the project and its APIs. Part of
 that documentation process is documenting the members of the Ojos Project.
 
 The Members JSON file includes information about the members. It's just casual
-stuff like names and emails. However, we use this file for presented who
+stuff like names and emails. However, we use this file to showcase who
 contributed to our project.
 
 ## The Protocol
