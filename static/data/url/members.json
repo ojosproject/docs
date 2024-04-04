@@ -88,7 +88,7 @@
         "joined": "April 3 2024",
         "avatar": "https://gravatar.com/avatar/7bae5b8f9cc1947984ed6c9d448549b7e8447b46af410c58ed4837223c7a4ff5?d=mp",
         "contributions": [],
-        "active": false
+        "active": true
     },
     {
         "name": "Kristopher Doan",
@@ -99,6 +99,6 @@
         "joined":"April 3 2024",
         "avatar": "https://gravatar.com/avatar/7bae5b8f9cc1947984ed6c9d448549b7e8447b46af410c58ed4837223c7a4ff5?d=mp",
         "contributions": [],
-        "active": false
+        "active": true
     }
 ]
