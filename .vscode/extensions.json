@@ -28,6 +28,9 @@
         "DavidAnson.vscode-markdownlint",
 
         // Windows Subsystem for Linux extension, for WSL users in Ojos Project
-        "ms-vscode-remote.remote-wsl"
+        "ms-vscode-remote.remote-wsl",
+
+        // Enables MDX support
+        "unifiedjs.vscode-mdx"
     ]
 }
