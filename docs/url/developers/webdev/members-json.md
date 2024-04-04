@@ -48,18 +48,18 @@ All of the Member objects will be inside of an array.
 
 Here's a table of keys and their meaning:
 
-|key|meaning|
-|---|---|
-|`name`|Member name|
-|`email`|Their institution email|
-|`roles`|Their role(s) in the Ojos Project|
-|`institution`|Their associated institution|
-|`website.label`|The label, usually `Personal Website`, `Email`, etc.|
-|`website.value`|The link to direct people to. `mailto:` for `Email`.|
-|`joined`|Their join month/year|
-|`avatar`|Their Gravatar link, with [default image `mp`](https://docs.gravatar.com/general/images/#default-image). Use [SHA256 Online Tool](https://emn178.github.io/online-tools/sha256.html)|
-|`contributions`|An array of strings indicating their various contributions|
-|`active`|A boolean indicating if they're still participating or not|
+| Key             | Meaning                                                                                                                                                                              |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `name`          | Member name                                                                                                                                                                          |
+| `email`         | Their institution email                                                                                                                                                              |
+| `roles`         | Their role(s) in the Ojos Project                                                                                                                                                    |
+| `institution`   | Their associated institution                                                                                                                                                         |
+| `website.label` | The label, usually `Personal Website`, `Email`, etc.                                                                                                                                 |
+| `website.value` | The link to direct people to. `mailto:` for `Email`.                                                                                                                                 |
+| `joined`        | Their join month/year                                                                                                                                                                |
+| `avatar`        | Their Gravatar link, with [default image `mp`](https://docs.gravatar.com/general/images/#default-image). Use [SHA256 Online Tool](https://emn178.github.io/online-tools/sha256.html) |
+| `contributions` | An array of strings indicating their various contributions                                                                                                                           |
+| `active`        | A boolean indicating if they're still participating or not                                                                                                                           |
 
 :::tip
 
