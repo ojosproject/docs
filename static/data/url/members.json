@@ -62,7 +62,7 @@
         "email": "igronich@students.imperial.edu",
         "roles": ["Research Team"],
         "institution": "Imperial Valley College",
-        "website": {"label": "", "value":"mailto:igronich@students.imperial.edu"},
+        "website": {"label": "Email", "value":"mailto:igronich@students.imperial.edu"},
         "joined": "February 5 2024",
         "avatar": "https://gravatar.com/avatar/e4b66681a801324cb8b596783892b45e275d0c182789cb22a2af0c14ff73f0f8?d=mp",
         "contributions": ["Researched various academic papers for the Ojos Project."],
@@ -88,7 +88,7 @@
         "joined": "April 3 2024",
         "avatar": "https://gravatar.com/avatar/7bae5b8f9cc1947984ed6c9d448549b7e8447b46af410c58ed4837223c7a4ff5?d=mp",
         "contributions": [],
-        "active": false
+        "active": true
     },
     {
         "name": "Kristopher Doan",
@@ -99,6 +99,6 @@
         "joined":"April 3 2024",
         "avatar": "https://gravatar.com/avatar/7bae5b8f9cc1947984ed6c9d448549b7e8447b46af410c58ed4837223c7a4ff5?d=mp",
         "contributions": [],
-        "active": false
+        "active": true
     }
 ]
