@@ -62,7 +62,9 @@ const config: Config = {
           {to: '/url/developers/webdev/updating-docs/', from: '/teams/url/updating-docs/'},
           {to: '/url/requirements/', from: '/teams/url/requirements/README'},
           {to: '/url/requirements/interviews', from: '/teams/url/requirements/interviews'},
-          {to: '/policies/inf199-acknowledgement', from: '/teams/url/inf199-acknowledgement'}
+          {to: '/policies/inf199-acknowledgement', from: '/teams/url/inf199-acknowledgement'},
+          {to: '/url/', from: '/teams/url/'},
+          {to: '/url/research/', from: '/teams/research/'}
         ]
       }
     ]
