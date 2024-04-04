@@ -22,8 +22,8 @@ function getRowForCurrentMember(member: Member) {
         <td><img src={member.avatar+"&s=150"} alt={`${member.name}'s Gravatar`}/></td>
         <td>{member.name}</td>
         <td>{member.joined}</td>
-        <td><a href={`mailto:${member.email}`}>{member.email}</a></td>
-        <td><a href={member.website.value}>{member.website.label}</a></td>
+        <td><a href={`mailto:${member.email}`} target="_blank" rel="noopener noreferrer">{member.email}</a></td>
+        <td><a href={member.website.value} target="_blank" rel="noopener noreferrer">{member.website.label}</a></td>
     </tr>)
 }
 
@@ -32,8 +32,8 @@ function getRowForFormerMember(member: Member) {
         <tr>
             <td><img src={member.avatar+"&s=150"} alt={`${member.name}'s Gravatar`}/></td>
             <td>{member.name}</td>
-            <td><a href={`mailto:${member.email}`}>{member.email}</a></td>
-            <td><a href={member.website.value}>{member.website.label}</a></td>
+            <td><a href={`mailto:${member.email}`} target="_blank" rel="noopener noreferrer">{member.email}</a></td>
+            <td><a href={member.website.value} target="_blank" rel="noopener noreferrer">{member.website.label}</a></td>
             <td>
                 <ul>
                     {member.contributions.map(contribution => {
