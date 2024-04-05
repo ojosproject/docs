@@ -2,7 +2,7 @@
 displayed_sidebar: groupUrlTeamDevelopers
 description: Want to edit our GitLab code without having to fight with SSH? Learn how to use the GitLab IDE tool!
 last_update:
-    date: 1709672472960
+    date: April 5 2024
     author: Carlos Valdez
 ---
 
@@ -41,8 +41,19 @@ commit make sure the repository saves your changes, please watch
 
 The website documentation is written in Markdown. Please use
 [QuickRef.ME](https://quickref.me/markdown) to learn more. Some of this content
-is also written with admonitions. You can learn more about them using the
+also includes admonitions. You can learn more about them using the
 [Docusaurus docs](https://docusaurus.io/docs/markdown-features/admonitions).
+
+:::note
+
+Although the majority of the documentation is written in Markdown, some of it
+is written in [MDX](https://mdxjs.com/), which is a
+[programming language](https://en.wikipedia.org/wiki/Programming_language)
+rather than a [markup language](https://en.wikipedia.org/wiki/Markup_language).
+I **highly** recommend not editing pages that are written in MDX, such as the
+[members page](/url/members/).
+
+:::
 
 ## Error displaying webview
 
