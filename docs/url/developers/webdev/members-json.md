@@ -101,3 +101,17 @@ imported in `/docs/url/members.mdx`.
 If you want to import the Members JSON file in the Docs website, you can just
 add something like
 `import membersJSON from "@site/static/data/url/members.json"` in a JSX file.
+
+### Changing the data
+
+If you need to add a change to the Members JSON file, it is located in
+`/static/data/url/members.json` in the
+[Docs website repository](https://gitlab.com/ojosproject/docs/-/blob/main/static/data/url/members.json).
+
+:::tip
+
+If you are not in the Developers team, it is highly recommended to use the
+[GitLab IDE](/url/developers/guides/gitlab-ide) instead. You can do so by
+going to the repository and pressing the `.` key.
+
+:::
