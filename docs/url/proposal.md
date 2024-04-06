@@ -1,5 +1,5 @@
 ---
-displayed_sidebar: groupURL
+displayed_sidebar: groupUrl
 description: >
     Read the proposal for the URL Group.
 last_update:
