@@ -48,18 +48,18 @@ All of the Member objects will be inside of an array.
 
 Here's a table of keys and their meaning:
 
-| Key             | Meaning                                                                                                                                                                              |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `name`          | Member name                                                                                                                                                                          |
-| `email`         | Their institution email                                                                                                                                                              |
-| `roles`         | Their role(s) in the Ojos Project                                                                                                                                                    |
-| `institution`   | Their associated institution                                                                                                                                                         |
-| `website.label` | The label, usually `Personal Website`, `Email`, etc.                                                                                                                                 |
-| `website.value` | The link to direct people to. `mailto:` for `Email`.                                                                                                                                 |
-| `joined`        | Their join month/year                                                                                                                                                                |
-| `avatar`        | Their Gravatar link, with [default image `mp`](https://docs.gravatar.com/general/images/#default-image). Use [SHA256 Online Tool](https://emn178.github.io/online-tools/sha256.html) |
-| `contributions` | An array of strings indicating their various contributions                                                                                                                           |
-| `active`        | A boolean indicating if they're still participating or not                                                                                                                           |
+| Key             | Type       | Meaning                                                                                                                                                                              | Purpose                                                                                                                               |
+| --------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
+| `name`          | `string`   | Member name.                                                                                                                                                                         | Used to identify you as you.                                                                                                          |
+| `email`         | `string`   | Their institution email. Must be from an [approved domain](/url/getting-started/#send-us-your-email).                                                                                | Used to uniquely sort you from others in the team.                                                                                    |
+| `roles`         | `string[]` | Their role(s) in the Ojos Project. Index 0 is your main role.                                                                                                                        | Used to give you credit for your role(s) in the Ojos Project.                                                                         |
+| `institution`   | `string`   | Their associated institution. Examples: `University of California, Irvine`, `Imperial Valley College`, etc.                                                                          | Used to indicate the institution you're from.                                                                                         |
+| `website.label` | `string`   | The label, usually `Personal Website`, `Email`, etc.                                                                                                                                 | Used to label your website URL.                                                                                                       |
+| `website.value` | `string`   | The link to direct people to. `mailto:` for `Email`.                                                                                                                                 | Used to link people to your website.                                                                                                  |
+| `joined`        | `string`   | Their join month/year                                                                                                                                                                | Used to sort people... or at least will be used to sort people.                                                                       |
+| `avatar`        | `string`   | Their Gravatar link, with [default image `mp`](https://docs.gravatar.com/general/images/#default-image). Use [SHA256 Online Tool](https://emn178.github.io/online-tools/sha256.html) | Used to give a face to the name.                                                                                                      |
+| `contributions` | `string[]` | An array of strings indicating their various contributions                                                                                                                           | Used to gie you credit for what you did in the Ojos Project, specifically in the [Former Members table](/url/members/#former-members) |
+| `active`        | `boolean`  | A boolean indicating if they're still participating or not                                                                                                                           | Used to indicate if you're still participating in the project.                                                                        |
 
 :::tip
 
@@ -101,3 +101,17 @@ imported in `/docs/url/members.mdx`.
 If you want to import the Members JSON file in the Docs website, you can just
 add something like
 `import membersJSON from "@site/static/data/url/members.json"` in a JSX file.
+
+### Changing the data
+
+If you need to add a change to the Members JSON file, it is located in
+`/static/data/url/members.json` in the
+[Docs website repository](https://gitlab.com/ojosproject/docs/-/blob/main/static/data/url/members.json).
+
+:::tip
+
+If you are not in the Developers team, it is highly recommended to use the
+[GitLab IDE](/url/developers/guides/gitlab-ide) instead. You can do so by
+going to the repository and pressing the `.` key.
+
+:::

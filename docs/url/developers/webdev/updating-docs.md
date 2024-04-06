@@ -5,7 +5,7 @@ description: >
     the documentation. Out are the days of just adding the document...
 last_update:
     author: Carlos Valdez
-    date: 1710096433155
+    date: April 5 2024
 ---
 # Updating the documentation
 
@@ -25,18 +25,9 @@ just writing it up! That is... until *after* the setup.
 This document will explain the process of how to add a new Markdown file to
 the documentation. Out are the days of just adding the document...
 
-## The front matter
+## Markdown Front Matter
 
-:::tip
-
-Helpful resources:
-
-- [Docusaurus documentation](https://docusaurus.io/docs/markdown-features#front-matter).
-- [YAML cheat sheet](https://quickref.me/yaml)
-
-:::
-
-On the top of every Markdown file will exist this text:
+On the top of almost every Markdown file, you will find something like this:
 
 ```yaml
 ---
@@ -49,25 +40,19 @@ last_update:
 ---
 ```
 
-Here's a table detailing what each key means:
+This is called the front matter. It includes information that can become
+[meta tags](https://en.wikipedia.org/wiki/Meta_element) and/or can manipulate
+how that page looks like.
 
-| Key                 | Type                                          | Description                                                                                                                                                             |
-| ------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `displayed_sidebar` | `sidebar.ts` key                              | The sidebar that will be displayed on the left of the screen. The available values are in [`sidebars.ts`](https://gitlab.com/ojosproject/docs/-/blob/main/sidebars.ts). |
-| `description`       | string                                        | The description that will be displayed on the website's [meta tags](https://www.w3schools.com/tags/tag_meta.asp).                                                       |
-| `last_update`       | [sequence](https://quickref.me/yaml#sequence) | The [last updated](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#last_update) data.                                                            |
-| `author`            | string                                        | Name of the person who wrote this document.                                                                                                                             |
-| `date`              | number                                        | Unix timestamp in milliseconds. I usually get it from the [Unix Epoch Clock](https://www.epochconverter.com/clock).                                                     |
+I won't provide a full list of the keys here, but you can find them for the
+[docs front matter](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-docs#markdown-front-matter)
+and the
+[blog front matter](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog#markdown-front-matter)
+in the Docusaurus Docs.
 
-## Updating the sidebar
+:::tip
 
-The sidebar (for now) doesn't automatically update and include the new Markdown
-file. Please add the key to the `sidebars.ts` file. Please note the pattern!
+The front matter is written with YAML. You can use the
+[YAML cheat sheet](https://quickref.me/yaml) if you need help.
 
-## Conclusion
-
-It's really simple. Just:
-
-- Include the front matter
-- Write your content
-- Update `sidebars.ts` to include the location of your file
+:::
