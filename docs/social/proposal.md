@@ -1,7 +1,7 @@
 ---
-displayed_sidebar: groupFederate
+displayed_sidebar: groupSocial
 description: >
-    Read the proposal for the Federate group.
+    Read the proposal for the Social group.
 last_update:
     author: Carlos Valdez
     date: March 30 2024

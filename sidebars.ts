@@ -39,7 +39,7 @@ const sidebars: SidebarsConfig = {
     'breathe/proposal'
   ],
 
-  groupFederate: [
+  groupSocial: [
     'social/proposal'
   ],
 

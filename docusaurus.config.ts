@@ -64,7 +64,8 @@ const config: Config = {
           {to: '/url/requirements/interviews', from: '/teams/url/requirements/interviews'},
           {to: '/policies/inf199-acknowledgement', from: '/teams/url/inf199-acknowledgement'},
           {to: '/url/', from: '/teams/url/'},
-          {to: '/url/research/', from: '/teams/research/'}
+          {to: '/url/research/', from: '/teams/research/'},
+          {to: '/url/requirements/', from: '/teams/url/requirements/'}
         ]
       }
     ]
