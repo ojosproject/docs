@@ -50,6 +50,7 @@ const sidebars: SidebarsConfig = {
     'Guides': [
       'url/developers/guides/decrypt-interviews',
       'url/developers/guides/gitlab-ide',
+      'url/developers/guides/gravatar',
       'url/developers/guides/installing-wsl',
       'url/developers/guides/ssh-setup',
     ],
