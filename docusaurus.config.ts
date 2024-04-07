@@ -38,12 +38,13 @@ const config: Config = {
         },
         blog: false,
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: './src/css/custom.scss',
         },
       } satisfies Preset.Options,
     ],
   ],
   plugins: [
+    'docusaurus-plugin-sass',
     // This plugin helps us fight against link rot.
     // If we move documentation around, please make sure to add the old link
     // and new link  changes here.
@@ -73,6 +74,11 @@ const config: Config = {
 
   themeConfig: {
     image: 'img/header.png',
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: true,
+      respectPrefersColorScheme: false
+    },
     navbar: {
       title: 'Docs',
       logo: {
@@ -82,38 +88,65 @@ const config: Config = {
       },
       items: [
         {
-          type: 'doc',
-          position: 'left',
-          docId: 'url/glossary',
-          label: 'Glossary'
+          label: 'Project News',
+          href: 'https://ojosproject.org/news/'
+        },
+        {
+          label: 'Join us!',
+          href: 'https://ojosproject.org/news/join-us/'
+        },
+        {
+          label: "Website",
+          href: "https://ojosproject.org/",
+          position: "right"
         }
       ],
+
     },
     footer: {
-      style: 'light',
       links: [
         {
           title: 'Ojos Project',
           items: [
             {
-              label: 'ojosproject.org',
-              href: 'https://ojosproject.org/',
+              label: 'Slack',
+              href: 'https://ojosproject.slack.com/'
             },
             {
-              label: "News",
-              href: "https://ojosproject.org/news/"
-            }
-          ],
-        },
-        {
-          title: 'Find us online',
-          items: [
+              label: 'Finances',
+              href: 'https://docs.google.com/spreadsheets/d/1W9qHV4Bm3wPtvsBWxmY4jpJY9JbhpSFIvcgRSFbrr78/'
+            },
             {
               label: 'GitLab',
-              href: 'https://gitlab.com/ojosproject/',
+              href: 'https://gitlab.com/ojosproject/'
             },
-          ],
+            {
+              label: 'Undergraduate Research Lab',
+              href: 'https://markbaldw.in/url/'
+            },
+            {
+              label: 'Found a bug? Email us!',
+              href: 'mailto:contact-project+ojosproject-website-54703113-issue-@incoming.gitlab.com'
+            }
+          ]
         },
+        {
+          title: 'Documentation',
+          items: [
+            {
+              label: 'URL Group Docs',
+              to: '/url/'
+            },
+            {
+              label: 'Developers Docs',
+              to: '/url/developers/'
+            },
+            {
+              label: 'Engineering Docs',
+              to: '/url/engineering/'
+            }
+          ]
+        }
       ],
     },
     prism: {
