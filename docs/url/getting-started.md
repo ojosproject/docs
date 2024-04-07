@@ -78,8 +78,7 @@ That is, it must end with `.edu`.
 
 A lot of the services we use integrates [Gravatar](https://gravatar.com/). It
 adds an icon to your email. To learn more about getting that up, please check
-out this
-[GitLab issue addressing it](https://gitlab.com/ojosproject/website/-/issues/20).
+out [this guide](/url/developers/guides/gravatar).
 
 ## Getting recognized as a member
 
