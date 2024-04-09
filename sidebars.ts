@@ -53,6 +53,7 @@ const sidebars: SidebarsConfig = {
       'url/developers/guides/gravatar',
       'url/developers/guides/installing-wsl',
       'url/developers/guides/ssh-setup',
+      'url/developers/guides/updating-news',
     ],
     'WebDev': [
       'url/developers/webdev/adding-to-news',
