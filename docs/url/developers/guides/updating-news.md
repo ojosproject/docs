@@ -106,6 +106,42 @@ authors:
 ---
 ```
 
+### Truncating
+
+Truncating indicates when the "preview" of an article should stop. Let's take
+the same Winter 2024 Wrap Up as an example.
+
+```markdown
+# Winter 2024 Wrap Up
+
+![Ojos Project header](https://docs.ojosproject.org/img/header.png)
+
+The 2024 Winter quarter is almost finished! As we get ready to wrap up for Spring break, let's go over some of the accomplishments we had this quarter, as well as the plans we have for Spring 2024. Be back soon!
+
+<!-- truncate -->
+
+## A look back
+
+### Interviews
+...
+...
+...
+```
+
+If you look at [the main news page](https://ojosproject.org/news/) of the Ojos
+Project, the Winter 2024 Wrap Up's preview ends at the spot the truncate
+indicator is.
+
+All you have to do is add the extra `<!-- truncate -->` line, and then
+you can keep writing.
+
+:::warning
+
+This part is very important. Without the truncate indicator, the **full**
+article in the News section will be displayed.
+
+:::
+
 ### Simple Tables
 
 [Markdown lets people make tables](https://quickref.me/markdown#tables)! It's a
