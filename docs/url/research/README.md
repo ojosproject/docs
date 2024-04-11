@@ -7,11 +7,25 @@ description: >
     it.
 last_update:
     author: Carlos Valdez
-    date: February 22, 2024 11:18:17 AM PST
+    date: April 11 2024
 ---
 
 Research Team
 =============
+
+:::note
+
+We're looking for a Research team lead!
+
+Responsibilities include:
+
+- Leading the Research team
+- Organizing our research
+- Maintaining documentation (the `/url/research/` part of the website)
+
+If you'd like to be the lead, please contact Carlos!
+
+:::
 
 The Research Team at the Ojos Project is in charge of reading research papers
 that may help with the development of our project. The Research Team's
@@ -21,15 +35,8 @@ it.
 Responsibilities
 ----------------
 
-At the moment, there are two teams: the URL Team and the Research Team. The URL
-team is at the University of California, Irvine physically present on campus.
-
-The relationship between the two includes the following:
-
-1. The URL team asks the Research team to research a specific topic
-2. The URL team sends an academic article that requires reading
-3. The Research team reads on the topic or the journal article and put their
-findings on a Google Doc.
+The responsibilities of the Research team is to read academic articles, take
+notes on them, and present their findings to the other URL Group team.
 
 Tools
 -----
