@@ -61,10 +61,6 @@ const sidebars: SidebarsConfig = {
     ]
   },
   groupUrlTeamResearch: {
-    'General': [
-      'url/research/git-credit',
-      'url/research/chalubot'
-    ],
     'Notes': [
       'url/research/notes/0',
       'url/research/notes/1',
