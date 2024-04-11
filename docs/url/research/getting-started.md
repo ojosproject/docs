@@ -5,24 +5,21 @@ description: >
     These are instructions for people who are just joining the team.
 last_update:
     author: Carlos Valdez
-    date: 1709933926503
+    date: April 11 2024
 ---
 # Getting Started in the Research Team
 
 Welcome to the Ojos Project's Research team! We're excited to have you! These
 are instructions for people who are just joining the team.
 
-## Read up on ChaluBot and the Git Credit proposal
+## Protocols
 
-[ChaluBot](/url/research/chalubot/) is the Discord bot we use to send in our
-research. Learning how to use it will be very helpful.
+When you find an article, you should save a PDF and place it in the
+[PDFs folder](https://drive.google.com/drive/folders/1KI2TzU9IiIxW-12PeD3PIpQ0SD_T1nq0).
+Then, take notes using the Master Doc.
 
-Also, we give you git credit for your contributions. Read about that in
-[Credit via Git](/url/research/git-credit/).
+## Master Doc Structure
 
-## Admin Checklist
-
-This checklist is here for the people helping you get set up.
-
-- [ ] Ensure they read the ChaluBot doc
-- [ ] Ensure ChaluBot has their email
+View the
+[Master Doc](https://docs.google.com/document/d/1NK4KhvDtAmVT-2tfs4LrsvgLWV4tUc-RgwHvG7LeYDs/)
+and tell Carlos if there's anything you don't understand.
