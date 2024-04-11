@@ -21,8 +21,13 @@ contributed to our project.
 ## The Protocol
 
 The Members JSON Protocol is the method in which we will use the Members JSON
-file. The file includes information to help promote members and get information
-we may need for the Ojos Project.
+file, the file that contains information about the URL Group's team members.
+
+The protocol has two requirements.
+
+1. Information about the URL Group must be found in this one JSON file
+2. If we want to display information about the members, it must come from this
+   JSON file
 
 ### JSON Structure
 
