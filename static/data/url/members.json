@@ -2,7 +2,7 @@
     {
         "name": "Carlos Valdez",
         "email": "cvaldezh@uci.edu",
-        "roles": ["Group Lead", "Developers Lead"],
+        "roles": ["Group Lead", "Developers Lead", "Research Team"],
         "institution": "University of California, Irvine",
         "website": {"label": "Personal Website", "value": "https://calejvaldez.com/"},
         "joined": "October 2023",
@@ -31,7 +31,7 @@
     {
         "name": "Joseph Sweatt",
         "email": "jsweatt@uci.edu",
-        "roles": ["Engineering Lead"],
+        "roles": ["Engineering Lead", "Research Team"],
         "institution": "University of California, Irvine",
         "website": {"label": "LinkedIn", "value": "https://linkedin.com/in/josephsweattjr/"},
         "joined": "October 2023",
