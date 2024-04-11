@@ -11,17 +11,23 @@ interface Member {
     roles: string[]
     institution: string
     website: {label: string, value: string}
-    joined: string
+    joined: number
     avatar: string
     contributions: string[]
     active: boolean
 }
 
 function getRowForCurrentMember(member: Member) {
+    const joined = new Date(member.joined*1000);
+    const months = [
+        "January", "February", "March", "April", "May", "June",
+        "July", "August", "September", "October", "November", "December"
+    ]
+
     return (<tr>
         <td><img src={member.avatar+"&s=150"} alt={`${member.name}'s Gravatar`}/></td>
         <td>{member.name}</td>
-        <td>{member.joined}</td>
+        <td>{`${months[joined.getMonth()]} ${joined.getDate()}, ${joined.getFullYear()}`}</td>
         <td><a href={`mailto:${member.email}`} target="_blank" rel="noopener noreferrer">{member.email}</a></td>
         <td><a href={member.website.value} target="_blank" rel="noopener noreferrer">{member.website.label}</a></td>
     </tr>)
