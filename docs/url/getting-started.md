@@ -56,7 +56,7 @@ more.
 
 On Thursdays at 12pm, we have a meeting with our Research Advisor,
 [Dr. Mark S. Baldwin](https://www.informatics.uci.edu/explore/faculty-profiles/mark-baldwin/).
-People are are enrolled **must**
+People who are enrolled **must**
 attend this meeting.
 
 We discuss our progress and the overall direction of where the project is
@@ -134,6 +134,7 @@ instructions for the team you are in:
 
 - [Developers team](/url/developers/getting-started/)
 - [Engineering team](/url/engineering/getting-started/)
+- [Research team](/url/research/getting-started/)
 
 ## Admin Checklist
 
