@@ -1,11 +1,11 @@
 ---
 description: This document goes into depth about IN4MATX 199 and who can/cannot enroll in this project for course credit.
 last_update:
-    date: 1710537568000
+    date: April 11 2024
     author: Carlos Valdez
 ---
 
-# Informatics 199 Acknowledgement
+# IN4MATX 199 Acknowledgement
 
 :::info
 
@@ -28,17 +28,17 @@ course IN4MATX 199. When Carlos first started the Ojos Project in October, he
 was required to enroll in the course to ensure he sticks to the
 [Undergraduate Research Lab](https://markbaldw.in/url) and takes it seriously.
 
-However, enrolling in Informatics 199 isn't an option for everybody since
+However, enrolling in IN4MATX 199 isn't an option for everybody since
 enrolling requires extra grading and responsibility instead of allowing them
 maximum flexibility.
 
 ## Benefits of enrolling in 199
 
-Individuals enrolled in Informatics 199 get a 2-5 unit course grade.
+Individuals enrolled in IN4MATX 199 get a 2-5 unit course grade.
 
 ## Benefits of not enrolling in 199
 
-Individuals not enrolled in Informatics 199 are allowed freedom to move in and
+Individuals not enrolled in IN4MATX 199 are allowed freedom to move in and
 out of the project as they please. Individuals enrolled in 199 have to stick
 with the project for a minimum two-quarter commitment.
 
@@ -47,10 +47,6 @@ with the project for a minimum two-quarter commitment.
 Ojos Project members who joined after **March 5, 2024** are not eligible to
 enroll in IN4MATX 199 for this project until we get further authorization to do
 so.
-
-Ojos Project members who joined after **October 31, 2023** might be eligible to
-enroll in IN4MATX 199 for this project if that specific person gets authorized
-to do so.
 
 That is to say, it isn't impossible, but I wouldn't hold my breath. We apologize
 for any inconvenience this may cause.
