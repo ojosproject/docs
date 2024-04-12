@@ -5,7 +5,7 @@ description: >
     structure of the Ojos Project.
 last_update:
     author: Carlos Valdez
-    date: March 30 2024
+    date: April 11 2024
 ---
 # Groups, Teams, and Members
 
@@ -13,12 +13,32 @@ We throw around terms such as 'group', 'team', 'member', etc. This will
 hopefully help clarify the structure of the Ojos Project to make sure things
 don't get complicated as time moves on.
 
-## Ojos Project Lead
+```mermaid
+block-beta
+    columns 9
+    ojos["Ojos Project"]:9
+    space:9
+    url["URL Group"]:3 group2:3 group3:3
+    space:9
+    dev["Developers"] eng["Engineering"] res["Research"]
+    space:9
 
-At the very top, there's the person leading the entirety of the Ojos Project.
-That is me.
+    space:6
 
-## Ojos Project Groups
+    You!:1
+
+    ojos-->url
+    url-->dev
+    dev-->You!
+```
+
+This example above represents [the URL Group](/url/).
+
+## Ojos Project
+
+At the very top, there is the Ojos Project as an organization.
+
+## Groups
 
 A "group" in the Ojos Project is a group that is dedicated towards a specific
 project. The URL Group, for example, is focused on building the hospice device.
@@ -28,7 +48,7 @@ moving forward.
 
 In these groups, there are teams. Read more below.
 
-## Ojos Project Teams
+## Teams
 
 Teams are, well, a group inside of a group. They're working on the same project
 the rest of the group is, except they work on a specialized aspect of it.
@@ -41,7 +61,7 @@ for their involvement in building the device.
 Each team can also have a Team Lead, if they so choose. It is recommended,
 though.
 
-## Ojos Project Members
+## Members
 
 You're considered a member of the Ojos Project if you've officially joined any
 group or team. For example, Ayush is part of the Developers team in the Ojos

@@ -12,6 +12,32 @@ last_update:
 We're pleased that you decided to join us. There's a few things we need you to
 do to get started. ✨
 
+## Understand the Structure
+
+The Ojos Project runs under a "group, team, member" structure. This is for the
+URL Group.
+
+```mermaid
+block-beta
+    columns 9
+    ojos["Ojos Project"]:9
+    space:9
+    url["URL Group"]:3 group2:3 group3:3
+    space:9
+    dev["Developers"] eng["Engineering"] res["Research"]
+    space:9
+
+    space:6
+
+    You!:1
+
+    ojos-->url
+    url-->dev
+    dev-->You!
+```
+
+The example above assumes you're joining the Developers team of the URL Group.
+
 ## Figure out your commitment
 
 Some students in this research project are enrolled in IN4MATX 199 at UCI. Read
