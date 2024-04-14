@@ -34,12 +34,9 @@ Please refer to the [Docusaurus documentation](https://docusaurus.io/docs)
 
 ### Git Rules
 
-If you are a member of the Ojos Project, you can add your changes to the `dev`
-branch.
-
-If you are an open-source contributor, you can create a fork of these documents
-and open a
-[Merge request](https://docs.gitlab.com/ee/user/project/merge_requests/).
+Please make sure to follow
+[the Ojos Project git policies](https://docs.ojosproject.org/policies/git).
+Thanks!
 
 ## Need help?
 
