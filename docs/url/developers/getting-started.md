@@ -2,22 +2,22 @@
 displayed_sidebar: groupUrlTeamDevelopers
 last_update:
     author: Carlos Valdez
-    date: March 21, 2024
+    date: April 15, 2024
 ---
 # Getting Started in the Developers Team
 
 Welcome to the Ojos Project's Developers team! We're excited to have you! These are
 instructions for people who are just joining the team.
 
-## GitLab
+## GitHub
 
-We have a [GitLab organization](https://gitlab.com/ojosproject/)! In it, we have
+We have a [GitHub organization](https://github.com/ojosproject/)! In it, we have
 all of our repos and documentation for the Ojos Project. It may be useful to
 join it.
 
 ### SSH Setup
 
-To connect to GitLab, you will be required to use SSH. Please read
+To connect to GitHub, you will be required to use SSH. Please read
 [SSH Setup](/url/developers/guides/ssh-setup/) to get started.
 
 ## Unix-like Environments
@@ -42,8 +42,8 @@ instructions for decrypting the interviews, is here:
 
 This checklist is here for the people helping you get set up.
 
-- [ ] Ensure they are in the GitLab organization
-  - [ ] Ensure they can connect to GitLab with SSH
+- [ ] Ensure they are in the GitHub organization
+  - [ ] Ensure they can connect to GitHub with SSH
 - [ ] Ensure they have a Unix-like environment
 - [ ] Provide access to encryption keys, if needed
   - [ ] Ensure they can decrypt interviews

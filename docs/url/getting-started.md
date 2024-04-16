@@ -66,8 +66,8 @@ We also have other meetings, but that depends on the team you are in.
 
 | Team             | Meeting           | Location | Description         |
 | ---------------- | ----------------- | -------- | ------------------- |
-| Developers Team  | Wed/Th @ 12pm-3pm | DBH 5089 | Work on the project |
-| Engineering Team | Wed/Th @ 12pm-3pm | DBH 5089 | Work on the project |
+| Developers Team  | Wed/Th @ 1pm-3pm | DBH 5089 | Work on the project |
+| Engineering Team | Wed/Th @ 1pm-3pm | DBH 5089 | Work on the project |
 
 ## Join our Google Drive
 
