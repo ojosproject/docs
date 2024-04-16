@@ -67,7 +67,25 @@ const config: Config = {
           {to: '/url/', from: '/teams/url/'},
           {to: '/url/research/', from: '/teams/research/'},
           {to: '/url/requirements/', from: '/teams/url/requirements/'},
-          {to: '/url/developers/guides/updating-news/', from: '/url/developers/webdev/adding-to-news/'}
+          {to: '/url/developers/guides/updating-news/', from: '/url/developers/webdev/adding-to-news/'},
+
+          // The content below is meant to replace the `/src/pages/` folder in
+          // this repo. It replaces various `/docs/...` URLs we used to have.
+          {to: '/', from: '/docs/welcome/'},
+          {to: '/url/glossary/', from: '/docs/glossary/'},
+          {to: '/url/research/', from: '/docs/teams/research/'},
+          {to: '/url/research/', from: '/docs/teams/research/reasearching-and-reporting/'},
+          {to: '/url/requirements/', from: '/docs/teams/url/requirements/'},
+          {to: '/url/requirements/interviews/', from: '/docs/teams/url/requirements/interviews/'},
+          {to: '/url/developers/guides/updating-news/', from: '/docs/teams/url/adding-to-news/'},
+          {to: '/url/developers/guides/decrypt-interviews/', from: '/docs/teams/url/decrypt-interviews/'},
+          {to: '/url/developers/guides/gitlab-ide/', from: '/docs/teams/url/gitlab-ide/'},
+          {to: '/url/', from: '/docs/teams/url/'},
+          {to: '/url/developers/guides/installing-wsl/', from: '/docs/teams/url/installing-wsl/'},
+          {to: '/url/', from: '/docs/teams/url/raspberry-pi/'},
+          {to: '/url/developers/guides/ssh-setup/', from: '/docs/teams/url/ssh-setup/'},
+          {to: '/url/developers/webdev/updating-docs/', from: '/docs/teams/url/updating-docs/'},
+
         ]
       }
     ]
