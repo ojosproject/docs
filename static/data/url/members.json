@@ -106,5 +106,38 @@
             "Researched engineering design."
         ],
         "active": true
+    },
+    {
+        "name": "Jesse David",
+        "email": "jessecd@uci.edu",
+        "roles": ["Developers Lead", "Research Team"],
+        "institution": "University of California, Irvine",
+        "website": {"label": "Email", "value": "mailto:jessecd@uci.edu"},
+        "joined": 1713380400,
+        "avatar": "https://gravatar.com/avatar/51db6b5c49b02428e4e69270515fa2cd00c966f249afceede0a8a295a7dc3e0d?d=mp",
+        "contributions": [],
+        "active": false
+    },
+    {
+        "name": "Christina Martinez",
+        "email": "chrismm6@uci.edu",
+        "roles": ["Developers Lead"],
+        "institution": "University of California, Irvine",
+        "website": {"label": "Email", "value": "mailto:chrismm6@uci.edu"},
+        "joined": 1713380400,
+        "avatar": "https://gravatar.com/avatar/adc610eaf208b218e57a7cd465ebff9e305d4961d1a1066fe15424e0cd732380?d=mp",
+        "contributions": [],
+        "active": false
+    },
+    {
+        "name": "Jason Martin",
+        "email": "jasonbm2@uci.edu",
+        "roles": ["Developers Lead", "Research Team"],
+        "institution": "University of California, Irvine",
+        "website": {"label": "Email", "value": "mailto:jasonbm2@uci.edu"},
+        "joined": 1713466800,
+        "avatar": "https://gravatar.com/avatar/8289191418b7daecb56c302c1088bc3cf261a250834ffa47681f707ad31c9e1e?d=mp",
+        "contributions": [],
+        "active": false
     }
 ]
