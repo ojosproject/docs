@@ -56,7 +56,7 @@ const sidebars: SidebarsConfig = {
       'url/developers/guides/updating-news',
     ],
     'WebDev': [
-      'url/developers/webdev/adding-to-news',
+      'url/developers/webdev/git-transition',
       'url/developers/webdev/updating-docs'
     ]
   },

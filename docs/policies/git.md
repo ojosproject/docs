@@ -1,14 +1,14 @@
 ---
 last_update:
     author: Carlos Valdez
-    date: 1709943055573
-description: Read up on the Ojos Project policies for git and GitLab!
+    date: April 14 2024
+description: Read up on the Ojos Project policies for git and GitHub!
 ---
 
 # git Policies
 
 [`git`](https://git-scm.org/) is a fantastic tool that helps developers manage
-their source code. [GitLab](https://about.gitlab.com/) is a tool that helps
+their source code. [GitHub](https://github.com/) is a tool that helps
 developers manage their many git repositories.
 
 This document will outline how we will use `git` in the Ojos Project.
@@ -117,19 +117,21 @@ Another method is by changing the author for one commit by using this command:
 git commit --author="Carlos Valdez <cvaldezh@uci.edu>"
 ```
 
-## GitLab
+## GitHub
 
-### Issues & Merge Requests
+:::warning
 
-Both Issues and Merge Requests are features that help us stay organized in
-GitLab. However, something to keep in mind about these is that they are used to
+We're transitioning from GitLab to GitHub. Some of this information may be
+outdated.
+
+:::
+
+### Issues & Pull Requests
+
+Both Issues and Pull Requests are features that help us stay organized in
+GitHub. However, something to keep in mind about these is that they are used to
 reference one another. Issues can very likely be referenced back in the future,
 so please behave appropriately in them.
-
-### Issues via Email
-
-People can open issues on GitLab using email. Each project has its own unique
-email, so we cannot list them all here.
 
 ### Closing an Issue
 
@@ -140,38 +142,6 @@ so that, if in the future we need to reference it, we can.
 ### Push Limits
 
 Pushing into the `main` branch will almost always be strictly forbidden unless
-you were given permission to do so. In fact, GitLab won't allow you to push into
+you were given permission to do so. In fact, GitHub won't allow you to push into
 `main`. In order to get your changes in `main`, you must push/merge into `dev`.
-We will open raise a Merge Request from `dev` to `main`.
-
-### GitHub Backup
-
-Although we primarily use GitLab,
-[it has a reputation for destroying data](https://www.youtube.com/watch?v=tLdRBsuvVKc).
-Therefore, we will be using the Mirroring Repositories feature to create a
-GitHub mirror for backup purposes.
-
-All GitHub project descriptions must include the following:
-
-> This is a mirror of our GitLab repository. All work happens on GitLab.
-
-It must also include a link to the GitLab project.
-
-### Pipelines
-
-When you push to any branch that is not `main`, you must ensure the
-`.gitlab-ci.yml` pipeline must succeed. Usually, it contains tests that ensure
-the `main` branch won't break, such as bundling or actual testing. If the repo
-has a `.gitlab-ci.yml` file, please take a look at it to see what it will be
-testing.
-
-### Checklist for new repos
-
-When creating a new repository, this must be done on GitLab:
-
-| Rule                                               | Location                                                |
-| -------------------------------------------------- | ------------------------------------------------------- |
-| Ensure branch protection for `main` (push limits)  | `/-/settings/repository` under "Protected Branches"     |
-| Ensure GitHub backup                               | `/-/settings/repository` under "Mirroring Repositories" |
-| Disable "Enable 'Delete source branch' by default" | `/-/settings/merge_requests` under "Merge options"      |
-| Enable "Pipelines must succeed"                    | `/-/settings/merge_requests` under "Merge checks"       |
+We will open raise a Pull Request from `dev` to `main`.
