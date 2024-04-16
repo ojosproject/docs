@@ -20,11 +20,11 @@ Please go
 ## Using the script
 
 I wrote a Bash script that will help automate the process. It is located in
-[our GitLab scripts repo](https://gitlab.com/ojosproject/scripts). To get the
+[our GitHub scripts repo](https://github.com/ojosproject/scripts). To get the
 script, do the following:
 
 ```shell
-git clone https://gitlab.com/ojosproject/scripts
+git clone https://github.com/ojosproject/scripts
 cd scripts/ssh-setup/
 ```
 
@@ -36,17 +36,17 @@ bash ssh-setup.sh
 
 The file will do the following things:
 
-1. Generate an SSH key for GitLab
-2. Modify your `config` file in the `.ssh` folder to add `git@gitlab.com`
-3. Print your public key, that you need to add to GitLab.
+1. Generate an SSH key for GitHub
+2. Modify your `config` file in the `.ssh` folder to add `git@github.com`
+3. Print your public key, that you need to add to GitHub.
 
-Once that's done, add your key to GitLab, ensure it's a key for
+Once that's done, add your key to GitHub, ensure it's a key for
 `Authentication`, and you're set!
 
 ## Using the SSH Agent
 
 If you ran the
-[`linux-setup.sh` file](https://gitlab.com/ojosproject/scripts/-/tree/main/linux-setup)
+[`linux-setup.sh` file](https://github.com/ojosproject/scripts/tree/main/linux-setup)
 during your Linux setup, you have two useful commands.
 
 ```shell
@@ -60,15 +60,15 @@ check
 ```
 
 If you want to learn how to do this manually, which I highly encourage,
-[read the old documentation here](https://gitlab.com/ojosproject/docs/-/blob/e98bc507eae3acb89326d54010c4ad59fd81124a/teams/url/ssh-setup.md#using-the-ssh-agent).
+[read the old documentation here](https://github.com/ojosproject/docs/blob/e98bc507eae3acb89326d54010c4ad59fd81124a/teams/url/ssh-setup.md#using-the-ssh-agent).
 
 ## Concluding
 
-Once you've created the key, added it to GitLab, and started the SSH agent, you
+Once you've created the key, added it to GitHub, and started the SSH agent, you
 should be able to test it using this command:
 
 ```shell
-ssh git@gitlab.com
+ssh git@github.com
 ```
 
 ... and get a response similar to:
