@@ -5,7 +5,7 @@ description: >
     This walks Developers over the Members JSON Protocol.
 last_update:
     author: Carlos Valdez
-    date: April 3 2024
+    date: April 16 2024
 ---
 # Members JSON Protocol
 
@@ -69,7 +69,7 @@ Here's a table of keys and their meaning:
 :::tip
 
 You can
-[view the public JSON file on GitLab](https://gitlab.com/ojosproject/docs/-/blob/main/static/data/url/members.json).
+[view the public JSON file on GitLab](https://github.com/ojosproject/docs/blob/main/static/data/url/members.json).
 
 :::
 
@@ -111,7 +111,7 @@ add something like
 
 If you need to add a change to the Members JSON file, it is located in
 `/static/data/url/members.json` in the
-[Docs website repository](https://gitlab.com/ojosproject/docs/-/blob/main/static/data/url/members.json).
+[Docs website repository](https://github.com/ojosproject/docs/blob/main/static/data/url/members.json).
 
 :::tip
 

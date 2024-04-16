@@ -73,8 +73,8 @@ sudo apt upgrade
 sudo apt install git
 
 # make a new folder for Git repos
-mkdir Git
-cd Git
+mkdir git
+cd git
 
 # clone the repo, cd into the linux-setup folder
 git clone https://gitlab.com/ojosproject/scripts.git

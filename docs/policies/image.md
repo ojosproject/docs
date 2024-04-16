@@ -1,7 +1,7 @@
 ---
 last_update:
     author: Carlos Valdez
-    date: 1710094327469
+    date: April 16 2024
 description: These are guidelines for how to use the Ojos Project name and logos.
 ---
 
@@ -9,16 +9,6 @@ description: These are guidelines for how to use the Ojos Project name and logos
 
 This document will go over how to properly use the Ojos Project logos and
 identity.
-
-:::warning
-
-Do not use the images below as links.
-[These links are not consistent](https://docusaurus.io/docs/markdown-features/assets#static-assets).
-Instead, use the links provided below the image. If the image cannot be found,
-refer to
-[the GitLab repository](https://gitlab.com/ojosproject/docs/-/tree/main/static/img).
-
-:::
 
 ## Name
 
@@ -33,9 +23,9 @@ Our logo uses the [Inter font](https://github.com/rsms/inter).
 
 ### General Logo
 
-![Ojos Project logo](@site/static/img/logo.png)
+![Ojos Project logo](@site/static/images/logo.png)
 
-Link: `https://docs.ojosproject.org/img/logo.png`
+Link: `https://docs.ojosproject.org/images/logo.png`
 
 ### Logo for circular frame
 
@@ -43,18 +33,18 @@ This logo is best for a circular frame. It has more space around it so it can
 "breathe". Circular frames are often used for social media, or the clickable
 logo on this website next to "Docs" above.
 
-![Ojos Project logo with room to breathe](@site/static/img/logo-space.png)
+![Ojos Project logo with room to breathe](@site/static/images/logo-space.png)
 
-Link: `https://docs.ojosproject.org/img/logo-space.png`
+Link: `https://docs.ojosproject.org/images/logo-space.png`
 
 ### Header
 
 This is a header with "Ojos Project" next to the logo. We often use this in our
 software documentation or in our meta tags header.
 
-![Ojos Project header](@site/static/img/header.png)
+![Ojos Project header](@site/static/images/header.png)
 
-Link: `https://docs.ojosproject.org/img/header.png`
+Link: `https://docs.ojosproject.org/images/header.png`
 
 ## Contact
 

@@ -74,8 +74,8 @@ ssh git@github.com
 ... and get a response similar to:
 
 ```shell
-Welcome to GitLab, @username!
-Connection to gitlab.com closed.
+Hi username! You've successfully authenticated, but GitHub does not provide shell access.
+Connection to github.com closed.
 ```
 
 Thank you for your patience. This will happen a lot.
