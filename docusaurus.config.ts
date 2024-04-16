@@ -95,8 +95,7 @@ const config: Config = {
     image: 'images/header.png',
     colorMode: {
       defaultMode: 'light',
-      disableSwitch: true,
-      respectPrefersColorScheme: false
+      respectPrefersColorScheme: true
     },
     navbar: {
       title: 'Docs',
