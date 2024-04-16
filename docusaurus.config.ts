@@ -9,7 +9,7 @@ const config: Config = {
   themes: ['@docusaurus/theme-mermaid'],
   
   title: 'Ojos Project Docs',
-  favicon: 'img/favicon.ico',
+  favicon: 'images/favicon.ico',
 
   trailingSlash: true,
 
@@ -92,7 +92,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: 'img/header.png',
+    image: 'images/header.png',
     colorMode: {
       defaultMode: 'light',
       disableSwitch: true,
@@ -102,7 +102,7 @@ const config: Config = {
       title: 'Docs',
       logo: {
         alt: 'Ojos Project logo',
-        src: 'img/logo-space.png',
+        src: 'images/logo-space.png',
         className: 'ojos_logo_in_navbar'
       },
       items: [

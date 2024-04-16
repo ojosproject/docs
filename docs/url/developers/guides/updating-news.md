@@ -6,7 +6,7 @@ description: >
     understand.
 last_update:
     author: Carlos Valdez
-    date: April 8 2024
+    date: April 16 2024
 ---
 # Publishing News
 
@@ -65,7 +65,7 @@ So if you want to post something on April 8 and you want to name the file
 `cool-post.md`, you need to name the file `04-08-cool-post.md` and place it
 inside the `2024` folder.
 
-![GitLab IDE screenshot focusing on the `news` folder](@site/static/img/screenshot-news-gitlab-ide.png)
+![GitLab IDE screenshot focusing on the `news` folder](@site/static/images/screenshot-news-gitlab-ide.png)
 
 ## Docusaurus + Markdown
 
@@ -209,7 +209,7 @@ Let's say you finally have your post ready to go. Great! But what's next?
 
 Well, you need to commit it to the repository.
 
-![Explore in GitLab IDE with cursor hovering Source Control](@site/static/img/screenshot-news-commit.png)
+![Explore in GitLab IDE with cursor hovering Source Control](@site/static/images/screenshot-news-commit.png)
 
 Click the `+` button on all of the files you added, write a commit message, and
 then click `Commit`. Let the Developers team you committed, and you're good to
