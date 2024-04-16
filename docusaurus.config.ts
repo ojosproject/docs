@@ -55,7 +55,7 @@ const config: Config = {
       '@docusaurus/plugin-client-redirects',
       {
         redirects: [
-          {to: '/url/developers/webdev/adding-to-news/', from: '/teams/url/adding-to-news/'},
+          {to: '/url/developers/guides/updating-news/', from: '/teams/url/adding-to-news/'},
           {to: '/url/developers/guides/gitlab-ide/', from: '/teams/url/gitlab-ide/'},
           {to: '/url/developers/guides/installing-wsl/', from: '/teams/url/installing-wsl/'},
           {to: '/url/developers/guides/decrypt-interviews/', from: '/teams/url/decrypt-interviews/'},
@@ -66,7 +66,8 @@ const config: Config = {
           {to: '/policies/inf199-acknowledgement', from: '/teams/url/inf199-acknowledgement'},
           {to: '/url/', from: '/teams/url/'},
           {to: '/url/research/', from: '/teams/research/'},
-          {to: '/url/requirements/', from: '/teams/url/requirements/'}
+          {to: '/url/requirements/', from: '/teams/url/requirements/'},
+          {to: '/url/developers/guides/updating-news/', from: '/url/developers/webdev/adding-to-news/'}
         ]
       }
     ]
