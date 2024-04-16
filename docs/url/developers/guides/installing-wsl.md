@@ -77,7 +77,7 @@ mkdir git
 cd git
 
 # clone the repo, cd into the linux-setup folder
-git clone https://gitlab.com/ojosproject/scripts.git
+git clone https://github.com/ojosproject/scripts.git
 cd scripts/linux-setup
 
 # run the setup script
