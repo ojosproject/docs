@@ -7,7 +7,7 @@ description: >
     Linux.
 last_update:
     author: Carlos Valdez
-    date: February 21, 2024 7:57:56 PM PST
+    date: April 17 2024
 ---
 
 # Installing the Windows Subsystem for Linux
@@ -44,7 +44,7 @@ Per Microsoft's about page, the WSL is...
 The important part for us is being able to use Bash commands on the terminal.
 Anyways, enough of that. Let's actually install this thing.
 
-Please use **Powershell**.
+Please use **PowerShell as an admin**.
 
 ```shell
 wsl --install -d Debian
@@ -54,6 +54,16 @@ That simple command will go through the install process for WSL, specifically
 for the [Debian](https://debian.org/) version. It doesn't matter which one you
 choose as long as it is Debian-based. I chose Debian because it is considered
 to be the most stable Linux operating system.
+
+:::tip
+
+Don't want to use Debian? There's other distributions available! To see what's
+available, run `wsl --list --online` in PowerShell.
+
+**Please note that all documentation is written with Debian in mind. If
+something goes wrong, we may not be able to help you.**
+
+:::
 
 Please reboot your system!
 
