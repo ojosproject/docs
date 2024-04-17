@@ -10,8 +10,7 @@ description: >
 ---
 # Any Linux System Proposal
 
-Linux is an operating system that is primarily used in servers and not exactly
-in desktop computing. However, the idea behind "it must run on any Linux system"
+The idea behind "it must run on any Linux system"
 for the URL Group is that, this must be installable and runnable on any Linux
 system for the sake of being accessible.
 
@@ -52,8 +51,8 @@ If they're using the hospice device we're developing, nothing.
 
 However, if they're using their own device, they'd have to do the following:
 
-1. Get an old computer
-2. Install a Debian-based Linux distribution on their computer
+1. Get a computer
+2. Install a Linux distribution on their computer
 3. Install Iris and run setup scripts
 4. Start using it!
 
@@ -74,6 +73,10 @@ flowchart
     C --> |Yes| D[Enable video\nmonitoring features]
     C --> |No| E[Disable video\nmonitoring features]
 ```
+
+It would be something like
+[this website](https://www.webrtc-experiment.com/DetectRTC/) that detects what
+hardware is available ont he computer.
 
 So, when it comes to the hardware device that
 [the Engineering team](/url/engineering/) is developing, the flowchart will
