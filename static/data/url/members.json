@@ -110,7 +110,7 @@
     {
         "name": "Jesse David",
         "email": "jessecd@uci.edu",
-        "roles": ["Developers Lead", "Research Team"],
+        "roles": ["Developers Team", "Research Team"],
         "institution": "University of California, Irvine",
         "website": {"label": "Email", "value": "mailto:jessecd@uci.edu"},
         "joined": 1713380400,
