@@ -7,7 +7,7 @@ description: >
     Linux.
 last_update:
     author: Carlos Valdez
-    date: February 21, 2024 7:57:56 PM PST
+    date: April 17 2024
 ---
 
 # Installing the Windows Subsystem for Linux
