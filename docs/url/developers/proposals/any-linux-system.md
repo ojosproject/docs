@@ -46,6 +46,17 @@ and enable features based on the hardware it detects.
 This, in theory, would be a great way to repurpose old devices while also
 ensuring that this does not bring an additional financial burden to the family.
 
+## What would users have to do?
+
+If they're using the hospice device we're developing, nothing.
+
+However, if they're using their own device, they'd have to do the following:
+
+1. Get an old computer
+2. Install a Debian-based Linux distribution on their computer
+3. Install Iris and run setup scripts
+4. Start using it!
+
 ## What does "detecting hardware" look like?
 
 This is mostly a software issue, but it would look something like the following.
