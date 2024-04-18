@@ -14,29 +14,9 @@ do to get started. ✨
 
 ## Understand the Structure
 
-The Ojos Project runs under a "group, team, member" structure. This is for the
-URL Group.
-
-```mermaid
-block-beta
-    columns 9
-    ojos["Ojos Project"]:9
-    space:9
-    url["URL Group"]:3 group2:3 group3:3
-    space:9
-    dev["Developers"] eng["Engineering"] res["Research"]
-    space:9
-
-    space:6
-
-    You!:1
-
-    ojos-->url
-    url-->dev
-    dev-->You!
-```
-
-The example above assumes you're joining the Developers team of the URL Group.
+The Ojos Project runs under a "group, team, member" structure. You are
+participating in the URL Group. [Read the policies about that here if
+you're interested](/policies/structure/).
 
 ## Figure out your commitment
 
