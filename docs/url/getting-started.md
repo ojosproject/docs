@@ -103,6 +103,18 @@ That is, it must end with `.edu`.
 
 :::
 
+## Send Carlos your portfolio/website
+
+We promote your website on [our main page](https://ojosproject.org/#team) and on
+[the members page](/url/members/). Send Carlos your website to add the link!
+
+:::tip
+
+It doesn't have to be a personal website. It can be your social media, or
+anywhere you want people to contact you.
+
+:::
+
 ## Set up your Gravatar
 
 A lot of the services we use integrates [Gravatar](https://gravatar.com/). It
