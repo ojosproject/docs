@@ -54,20 +54,23 @@ more.
 
 ## Add meetings to your calendar
 
-On Thursdays at 12pm, we have a meeting with our Research Advisor,
+We also have other meetings, but that depends on the team you are in.
+
+| Team             | Meeting              | Location | Description         |
+| ---------------- | -------------------- | -------- | ------------------- |
+| Developers Team  | Wed/Th @ **1pm**-3pm | DBH 5089 | Work on the project |
+| Engineering Team | Wed/Th @ **1pm**-3pm | DBH 5089 | Work on the project |
+
+:::note
+
+If you are enrolled in IN4MATX 199, you must show up on Thursday earlier at 12pm
+to meet with our research advisor,
 [Dr. Mark S. Baldwin](https://www.informatics.uci.edu/explore/faculty-profiles/mark-baldwin/).
-People who are enrolled **must**
-attend this meeting.
 
 We discuss our progress and the overall direction of where the project is
 heading.
 
-We also have other meetings, but that depends on the team you are in.
-
-| Team             | Meeting           | Location | Description         |
-| ---------------- | ----------------- | -------- | ------------------- |
-| Developers Team  | Wed/Th @ 1pm-3pm | DBH 5089 | Work on the project |
-| Engineering Team | Wed/Th @ 1pm-3pm | DBH 5089 | Work on the project |
+:::
 
 ## Join our Google Drive
 
@@ -97,6 +100,18 @@ currently approved domains:
 Don't see you domain? Let Carlos know. It just means we haven't had students
 with that domain before. Remember, it has to be from an educational institution.
 That is, it must end with `.edu`.
+
+:::
+
+## Send Carlos your portfolio/website
+
+We promote your website on [our main page](https://ojosproject.org/#team) and on
+[the members page](/url/members/). Send Carlos your website to add the link!
+
+:::tip
+
+It doesn't have to be a personal website. It can be your social media, or
+anywhere you want people to contact you.
 
 :::
 
