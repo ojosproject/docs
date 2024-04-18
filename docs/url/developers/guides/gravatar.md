@@ -36,3 +36,10 @@ Gravatar, such as (but not limited to):
 
 This may be something to take into consideration when setting a Gravatar. You
 don't have to have it be a picture of your face.
+
+## What if I don't add a Gravatar?
+
+If you don't want to add a Gravatar, that's totally okay too! If you don't, your
+photo will just be this on our websites:
+
+![Default Gravatar for Carlos](https://gravatar.com/avatar/41bb2938e02bf5326eb6b82ec02d919ca97cf68b376c4c5769fbba4acc85a190?d=mp&s=250&f=y)
