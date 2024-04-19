@@ -46,6 +46,9 @@ const sidebars: SidebarsConfig = {
     'url/engineering/getting-started'
   ],
   groupUrlTeamDevelopers: {
+    'Design': [
+      'url/developers/design/c4-model'
+    ],
     'Guides': [
       'url/developers/guides/decrypt-interviews',
       'url/developers/guides/gitlab-ide',
