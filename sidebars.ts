@@ -51,6 +51,7 @@ const sidebars: SidebarsConfig = {
       'url/developers/guides/gitlab-ide',
       'url/developers/guides/gravatar',
       'url/developers/guides/installing-wsl',
+      'url/developers/guides/linux-filesystem',
       'url/developers/guides/ssh-setup',
       'url/developers/guides/updating-news',
     ],
