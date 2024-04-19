@@ -31,7 +31,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/ojosproject/docs/tree/dev/',
+            'https://github.dev/ojosproject/docs/blob/dev/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           routeBasePath: '/'
