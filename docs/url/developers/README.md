@@ -34,12 +34,12 @@ related to the Ojos Project.** Thanks!
 We try to use similar tools to ensure consistency throughout the team. Some of
 the tools we use are:
 
-|Tool|Setup|Reason|
-|---|---|---|
-|macOS or Linux|N/A|Ensuring we can use the same bash scripts.|
-|Windows Subsystem for Linux|[Installing the Windows Subsystem for Linux](/url/developers/guides/installing-wsl/)|Ensuring Windows users can use the same bash scripts without fully transitioning to Linux.|
-|GPG|[Decrypting the Interviews](/url/developers/guides/decrypt-interviews/)|We use GPG to encrypt/decrypt interviews.|
-|SSH|[SSH Setup](/url/developers/guides/ssh-setup/)|We use SSH to communicate with GitLab.|
+| Tool                        | Setup                                                                                | Reason                                                                                     |
+| --------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| macOS or Linux              | N/A                                                                                  | Ensuring we can use the same bash scripts.                                                 |
+| Windows Subsystem for Linux | [Installing the Windows Subsystem for Linux](/url/developers/guides/installing-wsl/) | Ensuring Windows users can use the same bash scripts without fully transitioning to Linux. |
+| GPG                         | [Decrypting the Interviews](/url/developers/guides/decrypt-interviews/)              | We use GPG to encrypt/decrypt interviews.                                                  |
+| SSH                         | [SSH Setup](/url/developers/guides/ssh-setup/)                                       | We use SSH to communicate with GitHub.                                                     |
 
 ## Custom bash commands
 
@@ -49,5 +49,5 @@ These are commands created via the `.zshrc` file.
 | ---------- | ----------------------------------------------- | ------------------------------------------------------------ |
 | `cdrive`   | `cd /mnt/c/Users/[username]`                    | For WSL users, will take you to your Windows home directory. |
 | `check`    | `ssh-add -l`                                    | Checks to see if there are identities in the SSH agent.      |
-| `activate` | `eval $(ssh-agent -s) && ssh-add ~/.ssh/GitLab` | Activates the SSH agent and adds the `GitLab` identity.      |
+| `activate` | `eval $(ssh-agent -s) && ssh-add ~/.ssh/github` | Activates the SSH agent and adds the `github` identity.      |
 | `config`   | `vim ~/.zshrc`                                  | Uses `vim` to open the `.zshrc`.                             |
