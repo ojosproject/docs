@@ -17,9 +17,11 @@ infrastructure of the device and the organization as a whole.
 
 The responsibilities of the Developers team include:
 
-- Updating the main website
-- Ensuring the Docs website is functional
-- Developing scripts and other Linux software for the device
+- Ensuring the main website and Docs website is updated adequately
+- Requirements analysis
+- Researching different tools to use
+- Software design with the C4 Model, class diagrams, etc.
+- Programming ([Bash](https://quickref.me/bash), [Python](https://quickref.me/python))
 
 ## Tools
 
