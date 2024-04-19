@@ -8,11 +8,12 @@ last_update:
 ---
 # C4 Model
 
-For our C4 Model, we use [Gaphor](https://gaphor.org/), an open-source
-modeling tool.
+## Context Diagram
+
+![Context Diagram for Iris](@site/static/images/url/developers/context_diagram.svg)
 
 You can [download the C4 Model here](https://docs.ojosproject.org/data/url/developers/c4.gaphor)
-and open it in Gaphor.
+and open it in [Gaphor](https://gaphor.org/).
 
 :::tip
 
