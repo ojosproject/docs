@@ -1,5 +1,6 @@
 ---
 displayed_sidebar: groupUrlTeamDevelopers
+image: https://docs.ojosproject.org/images/url/developers/context_diagram.svg
 description: >
     View the C4 Model by the URL Group Developers team.
 last_update:
