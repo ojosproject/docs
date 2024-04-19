@@ -37,6 +37,7 @@ the tools we use are:
 | Tool                        | Setup                                                                                | Reason                                                                                     |
 | --------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
 | macOS or Linux              | N/A                                                                                  | Ensuring we can use the same bash scripts.                                                 |
+| Gaphor                      | [gaphor.org](https://gaphor.org/download/)                                           | [C4 Model design](/url/developers/design/c4-model/)                                        |
 | Windows Subsystem for Linux | [Installing the Windows Subsystem for Linux](/url/developers/guides/installing-wsl/) | Ensuring Windows users can use the same bash scripts without fully transitioning to Linux. |
 | GPG                         | [Decrypting the Interviews](/url/developers/guides/decrypt-interviews/)              | We use GPG to encrypt/decrypt interviews.                                                  |
 | SSH                         | [SSH Setup](/url/developers/guides/ssh-setup/)                                       | We use SSH to communicate with GitHub.                                                     |
