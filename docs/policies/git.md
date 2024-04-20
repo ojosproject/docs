@@ -1,7 +1,7 @@
 ---
 last_update:
     author: Carlos Valdez
-    date: April 14 2024
+    date: April 19 2024
 description: Read up on the Ojos Project policies for git and GitHub!
 ---
 
@@ -17,15 +17,39 @@ This document will outline how we will use `git` in the Ojos Project.
 
 ### Commits
 
-Commits are similar to emails. I often like to use `git commit` instead of
+Commit messages are similar to emails. I often like to use `git commit` instead of
 `git commit -m "your message"` so that I can properly make it feel like an
 email. Overall, think of it this way:
 
 The first line is the subject line of an email. The middle section is the body
 of the email.
 
+Some commit messages can be long and detailed, [like this](https://github.com/ojosproject/website/commit/f447261bc1c373559350a89821067fc24b33ca16):
+
+```plaintext
+feat(index): hover over member generates a background color
+
+This is done so that we can indicate to the user that the member
+is clickable, and when they click the member, they are taken
+to that members' requested website.
+```
+
+... or sometimes they can be short. [Like this](https://github.com/ojosproject/website/commit/6e22e43096f71f3590638b320bfa0e40552368ae):
+
+```plaintext
+feat(config): clicking edit this page opens github.dev
+```
+
 I won't go into commit conventions here, but
 [this article covers it perfectly](https://www.freecodecamp.org/news/how-to-write-commit-messages-maintainers-will-like/).
+
+:::tip
+
+Short messages can be written using `git commit -m "your message"`.
+
+Long commits can be written in two ways. `git commit` opens an editor, OR you can use `git commit -m "subject line" -m "description"` to write a longer commit message.
+
+:::
 
 ### Branching
 
