@@ -5,12 +5,19 @@ description: >
     so that you can work with us. We can't wait to see what you do here!
 last_update:
     author: Carlos Valdez
-    date: April 2 2024
+    date: April 19 2024
 ---
 # Welcome to the Ojos Project
 
+<!-- ! NOTE FOR DEVELOPERS: -->
+<!-- ! Change the `last_update.author` and `last_update.date` value every time you edit. -->
+
 We're pleased that you decided to join us. There's a few things we need you to
 do to get started. ✨
+
+## Introduction
+
+<!-- todo: The Introduction section will be for tackling most of the onboarding problems. -->
 
 ## Understand the Structure
 
