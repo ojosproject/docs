@@ -36,13 +36,17 @@ related to the Ojos Project.** Thanks!
 We try to use similar tools to ensure consistency throughout the team. Some of
 the tools we use are:
 
-| Tool                        | Setup                                                                                | Reason                                                                                     |
-| --------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| macOS or Linux              | N/A                                                                                  | Ensuring we can use the same bash scripts.                                                 |
-| Gaphor                      | [gaphor.org](https://gaphor.org/download/)                                           | [C4 Model design](/url/developers/design/c4-model/)                                        |
-| Windows Subsystem for Linux | [Installing the Windows Subsystem for Linux](/url/developers/guides/installing-wsl/) | Ensuring Windows users can use the same bash scripts without fully transitioning to Linux. |
-| GPG                         | [Decrypting the Interviews](/url/developers/guides/decrypt-interviews/)              | We use GPG to encrypt/decrypt interviews.                                                  |
-| SSH                         | [SSH Setup](/url/developers/guides/ssh-setup/)                                       | We use SSH to communicate with GitHub.                                                     |
+| Tool           | Setup                                      | Reason                                              |
+| -------------- | ------------------------------------------ | --------------------------------------------------- |
+| macOS or Linux | N/A                                        | Ensuring we can use the same bash scripts.          |
+| Gaphor         | [gaphor.org](https://gaphor.org/download/) | [C4 Model design](/url/developers/design/c4-model/) |
+
+## Resources
+
+| Resource         | URL                                                          | Reason                                                              |
+| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------------- |
+| C4 Model website | [c4model.com](https://c4model.com/)                          | Outlines what the C4 Model is, with examples                        |
+| `gtk4-rs` book   | [gtk-rs.org](https://gtk-rs.org/gtk4-rs/stable/latest/book/) | Simple documentation for `gtk4-rs`, the toolkit to build a Rust app |
 
 ## Custom bash commands
 
