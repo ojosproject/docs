@@ -27,7 +27,7 @@ read the instructions in the
 [GitHub repository](https://github.com/ojosproject/docs) to get started.
 
 For easier access, you can click `Edit this button` to immediately open the
-page using the [GitHub IDE](/url/developers/guides/github-ide).
+page using the [GitHub IDE](/url/developers/guides/gitlab-ide).
 
 ## Need help?
 
