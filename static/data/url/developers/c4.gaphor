@@ -315,7 +315,7 @@
 <val>For accessibility, REQUIRES MORE RESEARCH.</val>
 </description>
 <name>
-<val>OpenACC</val>
+<val>OpenAAC</val>
 </name>
 <package>
 <ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
@@ -331,7 +331,7 @@
 </C4Container>
 <C4ContainerItem id="af1e6d54-fdf5-11ee-850e-ea27674e50b7">
 <matrix>
-<val>(1.0, 0.0, 0.0, 1.0, 454.4945032520686, 53.54881618084565)</val>
+<val>(1.0, 0.0, 0.0, 1.0, 454.4945032520686, 53.548816180845584)</val>
 </matrix>
 <top-left>
 <val>(-48.5, 0.0)</val>
