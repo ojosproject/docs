@@ -18,7 +18,8 @@ const sidebars: SidebarsConfig = {
       'policies/inf199-acknowledgement',
       'policies/paperwork',
       'policies/structure',
-      'policies/team-docs'
+      'policies/team-docs',
+      'policies/url-lab-attendance'
     ]
   },
 
