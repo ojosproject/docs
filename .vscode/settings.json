@@ -21,5 +21,13 @@
         "Telemedicine",
         "xinitrc"
     ],
-    "cSpell.language": "en,es"
+    "cSpell.language": "en,es",
+    "[markdown][plaintext]": {
+        "editor.rulers": [80],
+        "editor.wordWrap": "off"
+    },
+    "[python]": {
+        "editor.rulers": [120]
+    },
+    "files.autoSave": "onFocusChange",
 }
