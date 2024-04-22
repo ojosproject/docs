@@ -5,7 +5,7 @@ description: >
     so that you can work with us. We can't wait to see what you do here!
 last_update:
     author: Carlos Valdez
-    date: April 19 2024
+    date: April 21 2024
 ---
 # Welcome to the Ojos Project
 
@@ -15,9 +15,104 @@ last_update:
 We're pleased that you decided to join us. There's a few things we need you to
 do to get started. ✨
 
-## Introduction
+## About the Ojos Project
 
-<!-- todo: The Introduction section will be for tackling most of the onboarding problems. -->
+Before we get you set up to work with us, read this section to learn more about
+the Ojos Project as well as who we are.
+
+<!-- todo: The "About the Ojos Project" section will be for tackling most of the onboarding problems. -->
+
+### Background
+
+Carlos Valdez is an Informatics undergraduate at the University of California,
+Irvine. In July 2022, Carlos' grandma was placed in hospice because her cancer
+was too advanced. Since this was during the summer, Carlos spent most of his
+time taking care of her. While his mom and grandpa were working, he'd give her
+medications, food, and overall ensure she was okay. Once his grandpa would come
+home from work, he'd take over the care. This was the cycle for most weekdays
+until August 17 when she had passed away. During this time, he had witnessed
+critical shortcomings in hospice. Miscommunication between caregivers and
+difficulty in communicating with hospice nurses were a big issue.
+
+Professor Mark Baldwin is a professor at UCI in the department of Informatics.
+He has a background in accessibility and assistive technologies and persued a
+Ph.D. to make an impact in this field. During the summer of 2023, Carlos had
+emailed Professor Mark Baldwin about potential research opportunities. During
+this time, the professor was about to take research proposals for the
+Undergraduate Research Lab, so it was perfect timing for both parties.
+[Carlos submitted this proposal](/url/proposal/) to the professor, and after a
+few more emails and a meeting, we got to work on the (soon to be named) Ojos
+Project.
+
+<!-- todo: Joseph should probably add a section here for himself since he was part of Ojos for just about the same time. -->
+
+Since the Ojos Project started in October 2023, many more members have joined.
+[View all the members here](/url/members/).
+
+### What is hospice care?
+
+Hospice care is a type of care that focuses on a person's comfort as they're
+approaching the end of their life. People are usually placed in hospice care if
+their illness cannot be cured.
+
+Palliative care, on the other hand, may be similar to hospice care, however,
+people undergoing palliative care are still receiving treatment for their
+serious illness.
+
+You can learn more about both types of care from
+[this article from the National Institute of Health](https://www.nia.nih.gov/health/hospice-and-palliative-care/what-are-palliative-care-and-hospice-care).
+
+### Problems we identified
+
+Although hospice and palliative care focus on a patient's comfort, there's some
+aspects to it that can be improved. Through personal experiences and interviews
+we've conducted, we discovered aspects of palliative care that can be improved.
+
+Some of the problems we've identified are:
+
+- Miscommunication between caregivers
+- Caregivers not being able to be there due to work or financial reasons
+- Patients running the risk of being mistreated by hospice nurses
+- Patients forgetting to report their discomfort to nurses
+- ... and more
+
+### Our solutions
+
+Technology can't fix everything, but we can try.
+
+The goal of this project is to develop a device with our open-source software
+that does the following:
+
+- Document medications/care instructions
+- Providing financial resources to caregivers
+- Video monitoring the patient-nurse interactions to hold nurses accountable
+- Ensuring we document Patient Recorded Outcomes (PROs)
+- ... and more
+
+We're trying to develop two solutions: Iris, the open-source software that can
+do all of the above and be installable on any Linux distribution, and
+Palliview, a device that uses our software to provide a "plug and play"
+experience.
+
+:::tip
+
+If you want to get a deeper understanding of the solutions we came up with, you
+can view our
+[internal interview notes here](https://drive.google.com/drive/folders/1eIlEgCuRF6o4AtZqr3XAkX4-Ur-Y1uDr).
+These are notes from caregivers and healthcare professionals we've interviewed.
+
+We also have our
+[Requirements document](https://docs.google.com/document/d/1EJlghYqhiPrZsjPUHxxG_WeHkHulPB4a-HF8fL7QsCs/).
+A requirements document has all of the features our software should include, as
+well as shareholder concerns. It may be worth giving this document a read.
+
+We're also actively working
+[C4 Model diagrams](/url/developers/design/c4-model/), which visually depicts
+the software architecture of Iris.
+
+:::
+
+<!-- todo: Everything below needs to be modified a little bit. -->
 
 ## Understand the Structure
 
