@@ -5,7 +5,7 @@ description: >
     so that you can work with us. We can't wait to see what you do here!
 last_update:
     author: Carlos Valdez
-    date: April 21 2024
+    date: April 22 2024
 ---
 # Welcome to the Ojos Project
 
@@ -36,7 +36,7 @@ difficulty in communicating with hospice nurses were a big issue. In this
 project, Carlos is the lead of the [Developers team](/url/developers/).
 
 Professor Mark Baldwin is a professor at UCI in the department of Informatics.
-He has a background in accessibility and assistive technologies and persued a
+He has a background in accessibility and assistive technologies and pursued a
 Ph.D. to make an impact in this field. During the summer of 2023, Carlos had
 emailed Professor Mark Baldwin about potential research opportunities. During
 this time, the professor was about to take research proposals for the
