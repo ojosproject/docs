@@ -9,9 +9,6 @@ last_update:
 ---
 # Welcome to the Ojos Project
 
-<!-- ! NOTE FOR DEVELOPERS: -->
-<!-- ! Change the `last_update.author` and `last_update.date` value every time you edit. -->
-
 We're pleased that you decided to join us. There's a few things we need you to
 do to get started. ✨
 
@@ -20,8 +17,6 @@ do to get started. ✨
 Before we get you set up to work with us, read this section to learn more about
 the Ojos Project as well as who we are. Otherwise, if you just want to get
 setup, [you can go to the setup section](#setup).
-
-<!-- todo: The "About the Ojos Project" section will be for tackling most of the onboarding problems. -->
 
 ### Background
 
@@ -114,8 +109,6 @@ We're also actively working
 the software architecture of Iris.
 
 :::
-
-<!-- todo: Everything below needs to be modified a little bit. -->
 
 ## Setup
 
