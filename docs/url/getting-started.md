@@ -18,7 +18,8 @@ do to get started. ✨
 ## About the Ojos Project
 
 Before we get you set up to work with us, read this section to learn more about
-the Ojos Project as well as who we are.
+the Ojos Project as well as who we are. Otherwise, if you just want to get
+setup, [you can go to the setup section](#setup).
 
 <!-- todo: The "About the Ojos Project" section will be for tackling most of the onboarding problems. -->
 
@@ -116,29 +117,50 @@ the software architecture of Iris.
 
 <!-- todo: Everything below needs to be modified a little bit. -->
 
-## Understand the Structure
+## Setup
+
+Now that you have a general background of the Ojos Project, let's get you set
+up!
+
+### Understand the Structure
 
 The Ojos Project runs under a "group, team, member" structure. You are
 participating in the URL Group. [Read the policies about that here if
 you're interested](/policies/structure/).
 
-## Figure out your commitment
+In short, a group in the Ojos Project works on a project. A team in a group
+works on a specific part of that project, such as development or engineering. A
+member is someone who is a member of a team.
 
-Some students in this research project are enrolled in IN4MATX 199 at UCI. Read
-the [IN4MATX 199 Acknowledgement](/policies/inf199-acknowledgement) to learn
-more.
+The URL Group has two teams: [Developers](/url/developers/) and
+[Engineering](/url/engineering/).
 
-**If you are enrolled in IN4MATX 199, you are required to participate for a
-minimum of two quarters.**
+Both groups and teams have leads.
+
+| Group/Team       | Lead          |
+| ---------------- | ------------- |
+| URL Group        | Carlos Valdez |
+| Developers team  | Carlos Valdez |
+| Engineering team | Joseph Sweatt |
+
+As a member, you report to your team lead, and team leads report to the group
+lead.
+
+### Figure out your commitment
+
+Some students in this research project are enrolled in IN4MATX 199 at UCI,
+**but new members are not able to enroll**. Read the
+[IN4MATX 199 Acknowledgement](/policies/inf199-acknowledgement) to learn more.
 
 If you are not enrolled in IN4MATX 199, you may join and leave the project as
-you'd like, with limits. Read
-[Getting recognized as a member](#getting-recognized-as-a-member) below to learn
-more.
+you'd like, with limits. The limits are: 1) Your attendance must be documented,
+and 2) If you go AWOL for 2 weeks, we will assume you dropped the project. Read
+[our attendance policies](/policies/url-lab-attendance/) to learn more.
 
-## Add meetings to your calendar
+### Add meetings to your calendar
 
-We also have other meetings, but that depends on the team you are in.
+We meet on a regular basis. This is our meeting times for the 2024 Spring
+quarter:
 
 | Team             | Meeting              | Location | Description         |
 | ---------------- | -------------------- | -------- | ------------------- |
@@ -156,18 +178,18 @@ heading.
 
 :::
 
-## Join our Google Drive
+### Join our Google Drive
 
 We have an
 [internal Google Drive](https://drive.google.com/drive/folders/1nsghXOEXTWsKTtgMzlCuXMp8iIiq8iBb)
 that hosts some important files we use. It'll be helpful to join that!
 
-## Join our Slack workspace
+### Join our Slack workspace
 
 We have a [Slack workspace](https://ojosproject.slack.com) that we use to
 communicate with each other. Please join!
 
-## Send us your email
+### Send us your email
 
 A lot of the stuff we do will require email addresses. We require that you send
 us an email that is associated with your institution. The following are the
@@ -187,25 +209,31 @@ That is, it must end with `.edu`.
 
 :::
 
-## Send Carlos your portfolio/website
+### Send Carlos a website
 
 We promote your website on [our main page](https://ojosproject.org/#team) and on
 [the members page](/url/members/). Send Carlos your website to add the link!
 
 :::tip
 
-It doesn't have to be a personal website. It can be your social media, or
-anywhere you want people to contact you.
+It doesn't have to be a personal website. Examples we suggest are:
+
+- Portfolio
+- Email
+- LinkedIn
+- ... anything else you may want recruiters to see
 
 :::
 
-## Set up your Gravatar
+### Set up your Gravatar
 
-A lot of the services we use integrates [Gravatar](https://gravatar.com/). It
-adds an icon to your email. To learn more about getting that up, please check
-out [this guide](/url/developers/guides/gravatar).
+A lot of the services we use integrate [Gravatar](https://gravatar.com/). It's
+important to have one set as it gives an avatar to your name on our website. To
+learn more about getting that up, please check out
+[this guide](/url/developers/guides/gravatar). All you have to do is create a
+Gravatar account and set a photo. That's it!
 
-## Getting recognized as a member
+### Getting recognized as a member
 
 :::tip
 
@@ -217,7 +245,8 @@ member.
 To get recognized as a member, you must contribute to the project in some way.
 That may mean writing research notes, adding a commit message to any of our git
 repos, etc. As long as we see you are dedicated to the project, you may get
-recognized as a member if you so wish.
+recognized as a member if you so wish. To remain an active member, you must
+comply with our [attendance policies](/policies/url-lab-attendance/).
 
 Benefits include...
 
@@ -226,7 +255,7 @@ Benefits include...
 3. Getting vouched for by Carlos if you need a reference
 4. Probably more that I can't think of right now
 
-## What's next?
+### What's next?
 
 There may be more instructions depending on the team you're in. Read the
 instructions for the team you are in:
@@ -243,5 +272,6 @@ This checklist is here for the people helping you get set up.
 - [ ] Give access to the Google Drive
 - [ ] Give access to Slack
 - [ ] Ensure we have their email
+- [ ] Ask which link to promote
 - [ ] Ensure their Gravatar is set
 - [ ] Check if they automatically are a recognized member
