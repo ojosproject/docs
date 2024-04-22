@@ -32,7 +32,8 @@ medications, food, and overall ensure she was okay. Once his grandpa would come
 home from work, he'd take over the care. This was the cycle for most weekdays
 until August 17 when she had passed away. During this time, he had witnessed
 critical shortcomings in hospice. Miscommunication between caregivers and
-difficulty in communicating with hospice nurses were a big issue.
+difficulty in communicating with hospice nurses were a big issue. In this
+project, Carlos is the lead of the [Developers team](/url/developers/).
 
 Professor Mark Baldwin is a professor at UCI in the department of Informatics.
 He has a background in accessibility and assistive technologies and persued a
@@ -42,7 +43,8 @@ this time, the professor was about to take research proposals for the
 Undergraduate Research Lab, so it was perfect timing for both parties.
 [Carlos submitted this proposal](/url/proposal/) to the professor, and after a
 few more emails and a meeting, we got to work on the (soon to be named) Ojos
-Project.
+Project. In this project, Professor Baldwin is our research advisor and faculty
+mentor.
 
 <!-- todo: Joseph should probably add a section here for himself since he was part of Ojos for just about the same time. -->
 
