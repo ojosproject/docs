@@ -1,3 +1,7 @@
+import { useEffect } from "react";
+
 export default function Index() {
-    return <>{window.location.href = "https://ojosproject.org/docs/"}</>
+    useEffect(() => {
+        window.location.href = "https://ojosproject.org/docs/"
+    }, [])
 }
