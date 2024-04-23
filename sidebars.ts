@@ -56,9 +56,9 @@ const sidebars: SidebarsConfig = {
       'url/developers/guides/gravatar',
       'url/developers/guides/installing-wsl',
       'url/developers/guides/linux-filesystem',
+      'url/developers/guides/openlab',
       'url/developers/guides/ssh-setup',
       'url/developers/guides/updating-news',
-      'url/developers/guides/using-ssh'
     ],
     'WebDev': [
       'url/developers/webdev/git-transition',
